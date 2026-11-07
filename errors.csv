@@ -1,0 +1,468 @@
+﻿url,status,reason
+https://vshred.com/,BLOCKED,HTTP 403 (bot protection)
+http://www.southlandcu.org,BLOCKED,HTTP 403 (bot protection)
+https://www.aspiringhealthchiro.com/,BLOCKED,HTTP 403 (bot protection)
+https://www.instagram.com/833soulfit/,ERROR,HTTP 429
+https://thecamptc.com/locations/downtown-long-beach-california,ERROR,HTTP 404
+http://www.alliancecu.org,ERROR,HTTP 403
+http://www.smcu.org,BLOCKED,HTTP 403 (bot protection)
+https://www.fitworksite.com/,ERROR,HTTP 503
+http://www.bureaumembers.com/corekinetics,ERROR,HTTP 404
+http://www.theperfectcircleinc.com/,ERROR,HTTP 500
+http://www.isawall.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.isawall.com', port=80): Max retries exceeded with url: / (Caused by NameResolutio"
+https://pumphighenergyfitness.com/,ERROR,"ConnectionError: HTTPSConnectionPool(host='pumphighenergyfitness.com', port=443): Max retries exceeded with url: / (Caused by N"
+http://www.craftsmancu.org,ERROR,"ConnectionError: HTTPConnectionPool(host='www.craftsmancu.org', port=80): Max retries exceeded with url: / (Caused by NameResol"
+https://www.jrgtaxes.com/optin-506854221631487527678,BLOCKED,HTTP 403 (bot protection)
+http://www.mbutlercpa.com/,ERROR,HTTP 403
+https://home.kpmg.com/us/en/home/misc/contact-kpmg.html,ERROR,HTTP 404
+https://www.markspaneth.com/,BLOCKED,HTTP 403 (bot protection)
+http://cpadh.com,ERROR,HTTP 404
+http://www.mustangcpa.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.mustangcpa.com', port=80): Max retries exceeded with url: / (Caused by NameResolu"
+https://www.rulien.com,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.aktcpa.com,ERROR,HTTP 404
+http://https://www.medowscpa.com/,ERROR,"ConnectionError: HTTPConnectionPool(host='https', port=80): Max retries exceeded with url: //www.medowscpa.com/ (Caused by Name"
+http://www.abedanielcpa.com/,ERROR,"ConnectionError: HTTPConnectionPool(host='www.abedanielcpa.com', port=80): Max retries exceeded with url: / (Caused by NameReso"
+http://www.accountantscarync.com/contact.asp,ERROR,"ConnectionError: HTTPConnectionPool(host='www.accountantscarync.com', port=80): Max retries exceeded with url: /contact.asp (Ca"
+http://cbaileycpa.com,BLOCKED,HTTP 403 (bot protection)
+http://dennisassociates.com,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.porterhunt-cpas.com/,ERROR,HTTP 404
+https://www.mbeaudin.com,ERROR,"ConnectionError: HTTPSConnectionPool(host='www.mbeaudin.com', port=443): Max retries exceeded with url: / (Caused by NameResolu"
+http://www.cpatechnologists.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.cpatechnologists.com', port=80): Max retries exceeded with url: / (Caused by Name"
+https://www.edsylvia.com,ERROR,"ConnectionError: HTTPSConnectionPool(host='www.edsylvia.com', port=443): Max retries exceeded with url: / (Caused by NameResolu"
+https://jeffrey-m-brooks-co-cpa-inc.business.site/,ERROR,HTTP 404
+https://www.goodnesscpa.com,ERROR,"ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+http://www.terryljonescpa.com,BLOCKED,HTTP 403 (bot protection)
+http://www.cpaandlawoffices.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.cpaandlawoffices.com', port=80): Max retries exceeded with url: / (Caused by Name"
+http://www.vzncpa.com,ERROR,HTTP 404
+https://www.jamesfbakercpanc.com/,ERROR,HTTP 404
+http://www.beachfleischman.com,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+https://www.3qscpa.com/,ERROR,"ConnectionError: HTTPSConnectionPool(host='www.3qscpa.com', port=443): Max retries exceeded with url: / (Caused by NameResoluti"
+https://cdcpa.com/,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.carmeladaviscpa.net,ERROR,HTTP 403
+http://www.nashionalfinancial.com,ERROR,HTTP 404
+http://sheltonaccounting.biz,ERROR,"ConnectionError: HTTPConnectionPool(host='sheltonaccounting.biz', port=80): Max retries exceeded with url: / (Caused by NameRes"
+http://www.olivieriaccounting.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.olivieriaccounting.com', port=80): Max retries exceeded with url: / (Caused by Na"
+http://www.scrobertcpa.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.scrobertcpa.com', port=80): Max retries exceeded with url: / (Caused by NameResol"
+http://www.neworleansaccountingandtax.com/,ERROR,HTTP 502
+http://www.fliegcpa.com,ERROR,"ReadTimeout: HTTPSConnectionPool(host='www.fliegcpa.com', port=443): Read timed out. (read timeout=12)"
+http://www.jeffreynallencpa.com/,ERROR,"ConnectionError: HTTPConnectionPool(host='www.jeffreynallencpa.com', port=80): Max retries exceeded with url: / (Caused by Name"
+http://mygym.com/gilbert,BLOCKED,HTTP 403 (bot protection)
+http://www.taylorthornburgpt.com,ERROR,HTTP 403
+http://www.egoscue.com,BLOCKED,HTTP 403 (bot protection)
+https://thecamptc.com/locations/long-beach-california,ERROR,HTTP 404
+https://www.mifitness.com/,PARKED,Parked / suspended domain
+http://jabzboxing.com/glendale,ERROR,HTTP 404
+http://www.dallascu.org,ERROR,HTTP 404
+http://www.maxfitnesselite.com,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.ohiocreditunions.org,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.factsllc.biz,ERROR,HTTP 403
+http://www.guarinocpa.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.guarinocpa.com', port=80): Max retries exceeded with url: / (Caused by NameResolu"
+http://www.gprcpa.com/,ERROR,"ConnectionError: HTTPConnectionPool(host='www.gprcpa.com', port=80): Max retries exceeded with url: / (Caused by NameResolution"
+http://www.minkcpa.net,ERROR,"ConnectionError: HTTPConnectionPool(host='www.minkcpa.net', port=80): Max retries exceeded with url: / (Caused by NameResolutio"
+http://www.wendellwalkercpa.com,ERROR,HTTP 404
+https://www.gomezaccounting.com/,ERROR,HTTP 502
+http://www.horizonadviser.com,BLOCKED,HTTP 403 (bot protection)
+http://www.fichera-cpa.com,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.psha.com,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+https://www.profitkeepers.com/,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+https://www.padgettri.com/,BLOCKED,HTTP 403 (bot protection)
+http://www.modestocertifiedaccountant.com/,ERROR,HTTP 404
+http://jnrcpas.com,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.stevecostelloattorneyatlaw.com/,ERROR,HTTP 404
+http://www.maryscottcpa.com,ERROR,HTTP 410
+http://lub.com,ERROR,"ConnectionError: HTTPConnectionPool(host='lub.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("""
+http://chendersoncpa.com/,ERROR,"ConnectionError: HTTPConnectionPool(host='chendersoncpa.com', port=80): Max retries exceeded with url: / (Caused by NameResolut"
+https://www.golfinjurydoctors.com,ERROR,"SSLError: HTTPSConnectionPool(host='www.golfinjurydoctors.com', port=443): Max retries exceeded with url: / (Caused by S"
+https://becpas.com/contact/roanoke-office,ERROR,HTTP 404
+http://jgthomascpa.com,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.ohiocpafirm.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.ohiocpafirm.com', port=80): Max retries exceeded with url: / (Caused by NameResol"
+https://tamibenus.com/,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+https://www.focuspointwm.com/,BLOCKED,HTTP 403 (bot protection)
+http://www.rebeccahbutlercpa.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.rebeccahbutlercpa.com', port=80): Max retries exceeded with url: / (Caused by Nam"
+http://www.armaninollp.com/,BLOCKED,HTTP 403 (bot protection)
+http://gwaccountingsolutions.com,ERROR,"ConnectTimeout: HTTPConnectionPool(host='gwaccountingsolutions.com', port=80): Max retries exceeded with url: / (Caused by Con"
+https://jedwinburnscpa.com/,ERROR,HTTP 404
+http://www.kathrynwhayescpa.com/,ERROR,"ConnectionError: HTTPConnectionPool(host='www.kathrynwhayescpa.com', port=80): Max retries exceeded with url: / (Caused by Name"
+http://www.longschaefer.com,BLOCKED,HTTP 403 (bot protection)
+http://www.curaepbm.com,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.maryjgreencpa.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.maryjgreencpa.com', port=80): Max retries exceeded with url: / (Caused by NameRes"
+http://www.lgadvisors.net,ERROR,HTTP 404
+http://www.glhcpas.com,BLOCKED,HTTP 403 (bot protection)
+http://www.theshafergroup.net,ERROR,"ConnectionError: HTTPConnectionPool(host='www.theshafergroup.net', port=80): Max retries exceeded with url: / (Caused by NameRe"
+https://www.davidbeckcpa.com,ERROR,"ReadTimeout: HTTPSConnectionPool(host='davidbeckcpa.com', port=443): Read timed out. (read timeout=12)"
+http://www.zandersterling.com,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.culvercpagroup.com,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.zararhonecpainc.com,ERROR,HTTP 502
+http://www.aga-advisors.com,PARKED,Parked / suspended domain
+http://jahcpa.com,ERROR,"ConnectionError: HTTPConnectionPool(host='jahcpa.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionErro"
+http://www.theperfectworkout.com,ERROR,HTTP 520
+https://www.rhimartialartandfitness.com/,ERROR,HTTP 404
+http://e3fitness.life,ERROR,"ConnectionError: HTTPConnectionPool(host='e3fitness.life', port=80): Max retries exceeded with url: / (Caused by NameResolution"
+http://www.membermortgage.com,BLOCKED,HTTP 403 (bot protection)
+http://alliancecreditunion.org,ERROR,"ConnectionError: HTTPConnectionPool(host='alliancecreditunion.org', port=80): Max retries exceeded with url: / (Caused by NameR"
+http://www.motorcitycoopcu.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.motorcitycoopcu.com', port=80): Max retries exceeded with url: / (Caused by NameR"
+http://www.wsecu.org,BLOCKED,HTTP 403 (bot protection)
+http://www.rmlefcu.org,ERROR,HTTP 404
+https://www.linkfcu.org,ERROR,"SSLError: HTTPSConnectionPool(host='www.linkfcu.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SS"
+https://www.mockltd.com/,BLOCKED,HTTP 403 (bot protection)
+http://www.thomazin.com/,PARKED,Parked / suspended domain
+https://www.barkercpa.net/,ERROR,"ConnectionError: HTTPSConnectionPool(host='www.barkercpa.net', port=443): Max retries exceeded with url: / (Caused by NameResol"
+http://www.bookkeepingusa.com,ERROR,HTTP 403
+https://www.crowe.com/,BLOCKED,HTTP 403 (bot protection)
+http://www.bolotskycpa.com,PARKED,Parked / suspended domain
+http://santoscpa.com/,ERROR,HTTP 403
+http://www.msic.org,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.durbinco.com,PARKED,Parked / suspended domain
+http://www.deblieuxcpa.com/home.html,ERROR,HTTP 404
+https://centreta.com,ERROR,"ConnectionError: HTTPSConnectionPool(host='centreta.com', port=443): Max retries exceeded with url: / (Caused by NameResolution"
+http://www.guardiancu.org,ERROR,"ConnectTimeout: HTTPConnectionPool(host='www.guardiancu.org', port=80): Max retries exceeded with url: / (Caused by ConnectTim"
+https://www.ikejicpa.com,ERROR,"ConnectionError: HTTPSConnectionPool(host='www.ikejicpa.com', port=443): Max retries exceeded with url: / (Caused by NameResolu"
+http://geicofcu.org,ERROR,"ConnectTimeout: HTTPConnectionPool(host='geicofcu.org', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutEr"
+https://www.coughlincpa.com,ERROR,"ConnectionError: HTTPSConnectionPool(host='www.coughlincpa.com', port=443): Max retries exceeded with url: / (Caused by NameRes"
+http://www.robstahlcpa.com,ERROR,"ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+https://www.diascpa.com/index.html,ERROR,"ConnectionError: HTTPSConnectionPool(host='www.diascpa.com', port=443): Max retries exceeded with url: /index.html (Caused by N"
+http://www.mossadams.com,ERROR,HTTP 404
+http://www.caltaxservices.com,ERROR,HTTP 404
+http://www.simpkinscpa.com,BLOCKED,HTTP 403 (bot protection)
+https://www.kachelcpas.com/,ERROR,HTTP 404
+https://spatesaccountingcpa.taxdome.com/,BLOCKED,HTTP 403 (bot protection)
+http://rtwcpas.com,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.franskoviakcpa.com,ERROR,HTTP 520
+http://www.acpa4uinc.com,ERROR,HTTP 404
+https://www.mattmcguirecpa.com/,ERROR,HTTP 404
+http://www.schwarzcpa.com,ERROR,HTTP 502
+http://www.esevans.com,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+https://www.mdesravinescpa.com/,ERROR,"ConnectionError: HTTPSConnectionPool(host='www.mdesravinescpa.com', port=443): Max retries exceeded with url: / (Caused by Name"
+http://www.rjpcpa.net,ERROR,"ReadTimeout: HTTPSConnectionPool(host='www.rjpcpa.net', port=443): Read timed out. (read timeout=12)"
+http://lindacurrycpa.com,ERROR,"ConnectionError: HTTPConnectionPool(host='lindacurrycpa.com', port=80): Max retries exceeded with url: / (Caused by NameResolut"
+http://www.moranlong.com,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://gabycpa.com,ERROR,"ConnectionError: HTTPConnectionPool(host='gabycpa.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionErr"
+http://www.michaelstemley.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.michaelstemley.com', port=80): Max retries exceeded with url: / (Caused by NameRe"
+https://www.bluestonesvc.com/,ERROR,"SSLError: HTTPSConnectionPool(host='www.bluestonesvc.com', port=443): Max retries exceeded with url: / (Caused by SSLErr"
+http://www.brownandthomas.com,ERROR,"ReadTimeout: HTTPConnectionPool(host='www.brownandthomas.com', port=80): Read timed out. (read timeout=12)"
+https://www.quantumflextraining.com/contact-3,ERROR,HTTP 404
+http://https://www.royalcap.com,ERROR,"ConnectionError: HTTPConnectionPool(host='https', port=80): Max retries exceeded with url: //www.royalcap.com (Caused by NameRe"
+http://www.eastmanfitnessutah.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.eastmanfitnessutah.com', port=80): Max retries exceeded with url: / (Caused by Na"
+http://www.gunzupfitness.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.gunzupfitness.com', port=80): Max retries exceeded with url: / (Caused by NameRes"
+https://www.trumarkonline.org,BLOCKED,HTTP 403 (bot protection)
+https://www.pursuithp.com/,ERROR,"SSLError: HTTPSConnectionPool(host='www.pursuithp.com', port=443): Max retries exceeded with url: / (Caused by SSLError("
+https://lucasjamespersonaltraining.com,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+https://www.firstprioritycu.com/,BLOCKED,HTTP 403 (bot protection)
+https://www.mangino-strength.com/,ERROR,"ConnectionError: HTTPSConnectionPool(host='www.mangino-strength.com', port=443): Max retries exceeded with url: / (Caused by Na"
+http://www.dwfcu.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.dwfcu.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionE"
+http://www.cricpa.com,ERROR,HTTP 403
+https://www.csfinad.com/,ERROR,HTTP 404
+http://www.cshahncpa.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.cshahncpa.com', port=80): Max retries exceeded with url: / (Caused by NameResolut"
+http://www.compasscpagroup.com,ERROR,HTTP 404
+http://linkingassets.com,ERROR,HTTP 404
+https://chameleonsourcing.com/,ERROR,"ConnectionError: HTTPSConnectionPool(host='chameleonsourcing.com', port=443): Max retries exceeded with url: / (Caused by NameR"
+http://www.bakertilly.com,BLOCKED,HTTP 403 (bot protection)
+http://www.smcdcpa.com/,ERROR,"ConnectionError: HTTPConnectionPool(host='www.smcdcpa.com', port=80): Max retries exceeded with url: / (Caused by NameResolutio"
+http://www.laytonfinancialgroup.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.laytonfinancialgroup.com', port=80): Max retries exceeded with url: / (Caused by "
+https://www.mpricecpa.com/,ERROR,HTTP 404
+https://www.chesteencpa.com/home,ERROR,HTTP 404
+https://tgcpas.com/,ERROR,"ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+http://www.jdtaxes.com,PARKED,Parked / suspended domain
+https://ifstax.com,BLOCKED,HTTP 403 (bot protection)
+http://www.taccpa.com/,ERROR,"ConnectionError: HTTPConnectionPool(host='www.taccpa.com', port=80): Max retries exceeded with url: / (Caused by NameResolution"
+http://lechlitnercpa.com,ERROR,"ConnectionError: HTTPConnectionPool(host='lechlitnercpa.com', port=80): Max retries exceeded with url: / (Caused by NameResolut"
+http://www.bokaccounting.com,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+https://www.aborgesllc.com/home,ERROR,HTTP 404
+http://www.gkllp-cpa.com/,ERROR,"ConnectTimeout: HTTPConnectionPool(host='www.gkllp-cpa.com', port=80): Max retries exceeded with url: / (Caused by ConnectTime"
+http://thefctgroup.com,ERROR,"ConnectTimeout: HTTPConnectionPool(host='thefctgroup.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeou"
+http://www.chaviescpas.com,ERROR,"SSLError: HTTPSConnectionPool(host='www.chaviescpas.com', port=443): Max retries exceeded with url: / (Caused by SSLErro"
+http://abreucpa.com/,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://basilagrocostea.com,ERROR,"ConnectionError: HTTPConnectionPool(host='basilagrocostea.com', port=80): Max retries exceeded with url: / (Caused by NameResol"
+https://www.mcg.cpa/,ERROR,"ConnectionError: HTTPSConnectionPool(host='www.mcg.cpa', port=443): Max retries exceeded with url: / (Caused by NameResolutionE"
+http://www.padgettbusinessservices.com/contact-an-office/11132-california-ave-youngtown-az-85363,ERROR,HTTP 404
+http://taxcpa.me/,ERROR,"ConnectionError: HTTPConnectionPool(host='taxcpa.me', port=80): Max retries exceeded with url: / (Caused by NameResolutionError"
+https://jscpa.webs.com/,ERROR,"ConnectionError: HTTPSConnectionPool(host='jscpa.webs.com', port=443): Max retries exceeded with url: / (Caused by NameResoluti"
+http://www.cfo-cpa.net/,ERROR,"ConnectionError: HTTPConnectionPool(host='www.cfo-cpa.net', port=80): Max retries exceeded with url: / (Caused by NameResolutio"
+http://www.skrco.com,ERROR,HTTP 404
+http://www.fhfpc.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.fhfpc.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionE"
+https://www.zautckecpa.com/,ERROR,"ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+https://www.holmesdraperconsulting.com/,ERROR,"ConnectionError: HTTPSConnectionPool(host='www.holmesdraperconsulting.com', port=443): Max retries exceeded with url: / (Caused"
+http://www.rcmorgan.com,ERROR,"ReadTimeout: HTTPSConnectionPool(host='www.rcmorgan.com', port=443): Read timed out. (read timeout=12)"
+http://rbarrcpa.com,ERROR,"ConnectTimeout: HTTPConnectionPool(host='rbarrcpa.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutEr"
+https://www.cpataxservices.company/,ERROR,"ConnectionError: HTTPSConnectionPool(host='www.cpataxservices.company', port=443): Max retries exceeded with url: / (Caused by "
+https://cullencompany.net/,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.wardcpa.com,ERROR,HTTP 502
+http://garciapenacpas.trustab.org,ERROR,"ConnectTimeout: HTTPConnectionPool(host='garciapenacpas.trustab.org', port=80): Max retries exceeded with url: / (Caused by Co"
+http://www.strikingbeauties.com/home.html,ERROR,HTTP 403
+http://sweetfeettraining.com,ERROR,HTTP 404
+https://www.fscu.com,BLOCKED,HTTP 403 (bot protection)
+https://www.seniorlifestyle.com/property/emerald-springs/,ERROR,HTTP 404
+https://www.firstcu.net,ERROR,HTTP 520
+http://forcierfitness.com,ERROR,"ConnectionError: HTTPConnectionPool(host='forcierfitness.com', port=80): Max retries exceeded with url: / (Caused by NameResolu"
+http://lakeshore.org,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.goodcreditunion.com/,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+https://9ofs.com/,BLOCKED,HTTP 403 (bot protection)
+http://www.dgefcu.org/,ERROR,HTTP 404
+http://www.mumm-cpas.com,ERROR,HTTP 404
+http://www.donaldandco.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.donaldandco.com', port=80): Max retries exceeded with url: / (Caused by NameResol"
+https://www.ddkcpas.com/,BLOCKED,HTTP 403 (bot protection)
+http://www.jennerdarling.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.jennerdarling.com', port=80): Max retries exceeded with url: / (Caused by NameRes"
+http://www.tarrantcu.org,ERROR,"ConnectTimeout: HTTPConnectionPool(host='www.tarrantcu.org', port=80): Max retries exceeded with url: / (Caused by ConnectTime"
+http://www.jnewmancpa.com,ERROR,HTTP 403
+http://www.brendlecpa.com,BLOCKED,HTTP 403 (bot protection)
+http://www.waddell.com,BLOCKED,HTTP 403 (bot protection)
+http://khcpanc.com,ERROR,"ConnectionError: HTTPConnectionPool(host='khcpanc.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionErr"
+http://www.fgbriggsjrcpa.com,BLOCKED,HTTP 403 (bot protection)
+http://hague-sahady.com,ERROR,HTTP 404
+http://www.kenblumsteincpa.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.kenblumsteincpa.com', port=80): Max retries exceeded with url: / (Caused by NameR"
+http://gebauercpa.com,ERROR,"ConnectionError: HTTPConnectionPool(host='gebauercpa.com', port=80): Max retries exceeded with url: / (Caused by NameResolution"
+http://www.bakergingell.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.bakergingell.com', port=80): Max retries exceeded with url: / (Caused by NameReso"
+http://www.meinelcpa.com,ERROR,"ConnectTimeout: HTTPConnectionPool(host='www.meinelcpa.com', port=80): Max retries exceeded with url: / (Caused by ConnectTime"
+https://czechcpa.com,ERROR,"ConnectionError: HTTPSConnectionPool(host='czechcpa.com', port=443): Max retries exceeded with url: / (Caused by NameResolution"
+https://www.bergercpa.com/,ERROR,HTTP 410
+http://www.cherigraycpa.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.cherigraycpa.com', port=80): Max retries exceeded with url: / (Caused by NameReso"
+http://www.carpenterfrancisco.com/,ERROR,"ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=80): Max retries exceeded with url: / (Caused by NewConnectionError("
+http://www.indianocpa.com,BLOCKED,HTTP 403 (bot protection)
+https://wellscpaoh.wordpress.com/,ERROR,HTTP 410
+http://www.hwco.com/,ERROR,HTTP 403
+http://www.originca.com,ERROR,HTTP 503
+https://babineaucpa.com/,ERROR,"SSLError: HTTPSConnectionPool(host='babineaucpa.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SS"
+https://www.davisritterfinancial.com/,BLOCKED,HTTP 403 (bot protection)
+http://www.mytaxrefund.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.mytaxrefund.com', port=80): Max retries exceeded with url: / (Caused by NameResol"
+http://www.kwcpallc.com,ERROR,HTTP 404
+https://fraziergills.com/,BLOCKED,HTTP 403 (bot protection)
+https://www.bwatax.com/,ERROR,HTTP 502
+http://www.tdccpa.com,BLOCKED,HTTP 403 (bot protection)
+http://www.mcgauleycpa.com/,ERROR,HTTP 404
+https://www.hurst.tax/home,ERROR,HTTP 404
+http://www.biggskofford.com,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.maxbtaxes.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.maxbtaxes.com', port=80): Max retries exceeded with url: / (Caused by NameResolut"
+https://kedraflowers.com/,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+https://www.garenlkuhlmanncpachtd.com/,ERROR,"ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+http://www.oakescpas.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.oakescpas.com', port=80): Max retries exceeded with url: / (Caused by NameResolut"
+https://www.annemariehogancpa.com/,ERROR,"ConnectionError: HTTPSConnectionPool(host='www.annemariehogancpa.com', port=443): Max retries exceeded with url: / (Caused by N"
+http://www.terrycogan.com,ERROR,"ConnectTimeout: HTTPConnectionPool(host='www.terrycogan.com', port=80): Max retries exceeded with url: / (Caused by ConnectTim"
+https://payprosinc.net/,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://fitnessevolution.com/,ERROR,HTTP 401
+http://baileystkd.com/offers/hillcrest,ERROR,HTTP 404
+http://www.airforcefcu.com,ERROR,HTTP 404
+https://www.schoolstreetstudios.net/,ERROR,"ConnectionError: HTTPSConnectionPool(host='www.schoolstreetstudios.net', port=443): Max retries exceeded with url: / (Caused by"
+http://www.yoglates2.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.yoglates2.com', port=80): Max retries exceeded with url: / (Caused by NameResolut"
+https://www.ontherisefitnesscincinnati.com/,ERROR,"ConnectionError: HTTPSConnectionPool(host='www.ontherisefitnesscincinnati.com', port=443): Max retries exceeded with url: / (Ca"
+https://www.stayessentialfit.com,ERROR,"ConnectionError: HTTPSConnectionPool(host='www.stayessentialfit.com', port=443): Max retries exceeded with url: / (Caused by Na"
+https://www.frontwavecu.com,BLOCKED,HTTP 403 (bot protection)
+http://www.memberscu.org,ERROR,"ConnectionError: HTTPConnectionPool(host='www.memberscu.org', port=80): Max retries exceeded with url: / (Caused by NameResolut"
+https://www.self-help.org/,BLOCKED,HTTP 403 (bot protection)
+http://www.mecu.com/,BLOCKED,HTTP 403 (bot protection)
+http://www.spectrumfcu.org,ERROR,HTTP 403
+https://www.waterfrontfcu.org,BLOCKED,HTTP 403 (bot protection)
+https://www.tdfcu.org/home/home,ERROR,HTTP 404
+http://soundviewfcu.org,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+https://twitter.com/redpathcpas,BLOCKED,HTTP 403 (bot protection)
+http://www.stgcpa.com,BLOCKED,HTTP 403 (bot protection)
+http://www.taxtip.net,ERROR,HTTP 521
+http://www.adamcarycpa.com,ERROR,HTTP 520
+http://www.shotcpa.com,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.pwc.com,BLOCKED,HTTP 403 (bot protection)
+https://www.cpabythebay.com,ERROR,"ConnectionError: HTTPSConnectionPool(host='www.cpabythebay.com', port=443): Max retries exceeded with url: / (Caused by NewConn"
+https://www.dandhcpa.com/,ERROR,HTTP 404
+http://brucedownscpa.com,BLOCKED,HTTP 403 (bot protection)
+http://www.amjenterprises.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.amjenterprises.com', port=80): Max retries exceeded with url: / (Caused by NameRe"
+http://www.crouchjoslyn.com,ERROR,HTTP 404
+http://www.hwc-cpa.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.hwc-cpa.com', port=80): Max retries exceeded with url: / (Caused by NameResolutio"
+http://www.golden1.com,ERROR,"ReadTimeout: HTTPSConnectionPool(host='www.golden1.com', port=443): Read timed out. (read timeout=12)"
+http://www.blackmercpa.com,ERROR,HTTP 403
+http://michtacpa.com,ERROR,HTTP 403
+http://www.bljcpa.com/,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+https://www.lothamer.com,BLOCKED,HTTP 403 (bot protection)
+http://www.brownkinion.com,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.jbdawcpa.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.jbdawcpa.com', port=80): Max retries exceeded with url: / (Caused by NameResoluti"
+https://baincadvisory.com/,ERROR,HTTP 525
+https://watsontaxcpa.com/,ERROR,HTTP 520
+http://www.co-cpa.com,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.bizsolnetwork.com,ERROR,HTTP 404
+https://www.martenscocpa.com,BLOCKED,HTTP 403 (bot protection)
+http://www.heritageadvisorsllc.com,ERROR,HTTP 401
+http://www.collingscpa.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.collingscpa.com', port=80): Max retries exceeded with url: / (Caused by NameResol"
+http://www.montinico.com,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.schlosserfleming.com,BLOCKED,HTTP 403 (bot protection)
+http://www.kshgs.com,BLOCKED,HTTP 403 (bot protection)
+http://branghamcpa.com,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.mehaffeyfinancial.com,BLOCKED,HTTP 403 (bot protection)
+http://www.investmentsforyouinc.com/agents/max-bingman,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+https://www.tolkananditocpas.com/,ERROR,"ConnectTimeout: HTTPSConnectionPool(host='www.tolkananditocpas.com', port=443): Max retries exceeded with url: / (Caused by Co"
+http://www.divorceaccounting.com/,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.bonifacecazide.com,ERROR,"ReadTimeout: HTTPConnectionPool(host='www.bonifacecazide.com', port=80): Read timed out. (read timeout=12)"
+http://fss-cpa.com,ERROR,HTTP 404
+http://www.mattson-cpa.com,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.auercpafirm.com/,ERROR,"ConnectionError: HTTPConnectionPool(host='www.auercpafirm.com', port=80): Max retries exceeded with url: / (Caused by NameResol"
+https://www.bwjaccounting.com/,ERROR,"ConnectionError: HTTPSConnectionPool(host='www.bwjaccounting.com', port=443): Max retries exceeded with url: / (Caused by NameR"
+http://www.accuityllp.com,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.lisabankscpa.com,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.tss-cpa.com,ERROR,"ReadTimeout: HTTPConnectionPool(host='www.tss-cpa.com', port=80): Read timed out. (read timeout=12)"
+https://mcfaddencpafirm.com,ERROR,"ConnectionError: HTTPSConnectionPool(host='mcfaddencpafirm.com', port=443): Max retries exceeded with url: / (Caused by NameRes"
+https://www.walkercummingscpas.com,ERROR,"ConnectionError: HTTPSConnectionPool(host='www.walkercummingscpas.com', port=443): Max retries exceeded with url: / (Caused by "
+http://www.wmetpllc.com/,ERROR,"ConnectionError: HTTPConnectionPool(host='www.wmetpllc.com', port=80): Max retries exceeded with url: / (Caused by NameResoluti"
+https://www.fyzical.com/fort-ben-in,ERROR,HTTP 405
+https://www.browardmanualrehab.com,ERROR,HTTP 404
+http://thetrainstation.fit/index.html,ERROR,HTTP 404
+http://www.secondfederal.com,ERROR,HTTP 404
+http://www.debrastefan.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.debrastefan.com', port=80): Max retries exceeded with url: / (Caused by NameResol"
+http://www.startrustfcu.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.startrustfcu.com', port=80): Max retries exceeded with url: / (Caused by NameReso"
+http://www.michiganfirst.com,BLOCKED,HTTP 403 (bot protection)
+http://www.sfpcu.org,BLOCKED,HTTP 403 (bot protection)
+https://www.lafinancial.org,ERROR,"LocationParseError: Failed to parse: 'www.cusocal.org..', label empty or too long"
+https://www.uwcu.org/,BLOCKED,HTTP 403 (bot protection)
+https://www.advanzcu.org/,BLOCKED,HTTP 403 (bot protection)
+http://ddafcpa.com,ERROR,HTTP 404
+http://www.chrisweedcpa.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.chrisweedcpa.com', port=80): Max retries exceeded with url: / (Caused by NameReso"
+http://www.jlpcpa.net,ERROR,"ConnectionError: HTTPConnectionPool(host='www.jlpcpa.net', port=80): Max retries exceeded with url: / (Caused by NameResolution"
+http://www.taxgeeksllc.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.taxgeeksllc.com', port=80): Max retries exceeded with url: / (Caused by NameResol"
+https://waynemeyerscpa.com/,ERROR,"SSLError: HTTPSConnectionPool(host='waynemeyerscpa.com', port=443): Max retries exceeded with url: / (Caused by SSLError"
+http://www.webcpa.net,ERROR,HTTP 404
+https://www.pctcpa.com/splash,ERROR,HTTP 404
+http://www.aandocpas.com,ERROR,HTTP 500
+http://rogersandco.biz/,ERROR,"ConnectTimeout: HTTPConnectionPool(host='rogersandco.biz', port=80): Max retries exceeded with url: / (Caused by ConnectTimeou"
+http://www.healthcpa.com,ERROR,HTTP 409
+http://www.marthagazeleycpa.com,ERROR,HTTP 403
+http://www.henrykulik.com,BLOCKED,HTTP 403 (bot protection)
+http://www.hodgeassociates.com,BLOCKED,HTTP 403 (bot protection)
+http://www.taxhelp.pro,BLOCKED,HTTP 403 (bot protection)
+http://www.mandscpas.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.mandscpas.com', port=80): Max retries exceeded with url: / (Caused by NameResolut"
+http://www.bbs.co.nz,ERROR,"ConnectTimeout: HTTPConnectionPool(host='www.bbs.co.nz', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutE"
+http://www.troyghildenbrandpc.com,BLOCKED,HTTP 403 (bot protection)
+http://www.cumminscoffmancpa.com,ERROR,HTTP 404
+http://davidjmillett.com,ERROR,"ConnectionError: HTTPConnectionPool(host='davidjmillett.com', port=80): Max retries exceeded with url: / (Caused by NameResolut"
+http://www.piascik.com,ERROR,HTTP 404
+http://www.walnay.com,ERROR,"ConnectTimeout: HTTPConnectionPool(host='www.walnay.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeout"
+http://www.wendroffcpa.com,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.jamccoycpa.com/,ERROR,"ConnectTimeout: HTTPConnectionPool(host='www.jamccoycpa.com', port=80): Max retries exceeded with url: / (Caused by ConnectTim"
+http://www.lkmaccounting.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.lkmaccounting.com', port=80): Max retries exceeded with url: / (Caused by NewConn"
+https://www.tracielowecpa.com/cpahome,ERROR,HTTP 404
+http://mwhpc.com,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.hartwellcompany.com,BLOCKED,HTTP 403 (bot protection)
+http://www.delunataxlaw.com,BLOCKED,HTTP 403 (bot protection)
+http://www.kmjohnsoncpa.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.kmjohnsoncpa.com', port=80): Max retries exceeded with url: / (Caused by NameReso"
+http://www.wsengstromcpa.com/,ERROR,HTTP 500
+http://www.intaxact.com,ERROR,"ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+http://www.grheincpa.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.grheincpa.com', port=80): Max retries exceeded with url: / (Caused by NameResolut"
+http://www.compassfitnesscharleston.com,ERROR,HTTP 403
+http://www.zumba.com,BLOCKED,HTTP 403 (bot protection)
+http://www.transunion.com,BLOCKED,HTTP 403 (bot protection)
+https://www.crmetroymca.org/cedar_rapids,ERROR,HTTP 404
+http://www.goldsgymtn.com,ERROR,HTTP 401
+http://fpcu.org/,BLOCKED,HTTP 403 (bot protection)
+http://www.cabrillocu.com,BLOCKED,HTTP 403 (bot protection)
+http://www.susiesfigurefabulouscenter.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.susiesfigurefabulouscenter.com', port=80): Max retries exceeded with url: / (Caus"
+http://www.pmauniversalcity.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.pmauniversalcity.com', port=80): Max retries exceeded with url: / (Caused by Name"
+https://www.intentional-strength.com/,ERROR,"ConnectionError: HTTPSConnectionPool(host='www.intentional-strength.com', port=443): Max retries exceeded with url: / (Caused b"
+http://www.exerciseatanyage.org,ERROR,"ConnectionError: HTTPConnectionPool(host='www.exerciseatanyage.org', port=80): Max retries exceeded with url: / (Caused by Name"
+http://www.odjfscu.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.odjfscu.com', port=80): Max retries exceeded with url: / (Caused by NameResolutio"
+http://www.numericatech.com/company.htm,ERROR,"ConnectionError: HTTPConnectionPool(host='www.numericatech.com', port=80): Max retries exceeded with url: /company.htm (Caused "
+http://www.alaskausainsurance.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.alaskausainsurance.com', port=80): Max retries exceeded with url: / (Caused by Na"
+http://mantistax.com,ERROR,HTTP 409
+http://www.sharrardmcgee.com/contact.php,ERROR,HTTP 404
+http://www.jmartonecpa.com,ERROR,HTTP 404
+http://www.expertinsights.net,PARKED,Parked / suspended domain
+http://cpaofbirmingham.com/,ERROR,HTTP 404
+http://www.berdonllp.com,ERROR,HTTP 403
+http://www.clpfinancial.com,BLOCKED,HTTP 403 (bot protection)
+http://www.suzannebryantcpa.com,ERROR,HTTP 403
+https://www.commerceaccounting.com/,BLOCKED,HTTP 403 (bot protection)
+https://www.linkedin.com/in/sean-mcevoy-0a95b02/,ERROR,HTTP 999
+http://www.marklarsoncpa.com/,ERROR,"SSLError: HTTPSConnectionPool(host='marklarsoncpa.com', port=443): Max retries exceeded with url: / (Caused by SSLError("
+https://andrewsandcarlo.typepad.com,BLOCKED,HTTP 403 (bot protection)
+https://www.sullivanco.net,ERROR,"ConnectionError: HTTPSConnectionPool(host='www.sullivanco.net', port=443): Max retries exceeded with url: / (Caused by NameReso"
+https://www.bsfaz.com/,ERROR,"ConnectionError: HTTPSConnectionPool(host='www.bsfaz.com', port=443): Max retries exceeded with url: / (Caused by NewConnection"
+http://www.teresasperrycpa.com/,ERROR,HTTP 404
+https://www.grreid.com/,ERROR,"SSLError: HTTPSConnectionPool(host='www.grreid.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSL"
+http://www.hchtcpa.com,ERROR,"ConnectTimeout: HTTPConnectionPool(host='www.hchtcpa.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeou"
+http://londongroup.us/,ERROR,HTTP 403
+http://www.seimjohnson.com,ERROR,HTTP 404
+http://jaecpa.com,ERROR,"ConnectTimeout: HTTPConnectionPool(host='jaecpa.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutErro"
+http://www.chbcpas.com,BLOCKED,HTTP 403 (bot protection)
+https://twinstarstax-accounting.com/,ERROR,"ConnectionError: HTTPSConnectionPool(host='twinstarstax-accounting.com', port=443): Max retries exceeded with url: / (Caused by"
+http://www.barnesdennig.com,BLOCKED,HTTP 403 (bot protection)
+http://pgservicesinc.com,ERROR,"SSLError: HTTPSConnectionPool(host='pgservicesinc.com', port=443): Max retries exceeded with url: / (Caused by SSLError("
+http://www.managedaccountingservices.com,ERROR,HTTP 404
+http://www.fabbiancpa.com,PARKED,Parked / suspended domain
+https://www.cardop.com,ERROR,"ConnectTimeout: HTTPSConnectionPool(host='www.cardop.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeo"
+https://the-exercise-coach-arrowhead.business.site/,ERROR,HTTP 404
+http://www.athletestrainingcenter.com,ERROR,HTTP 404
+http://www.cula.com,BLOCKED,HTTP 403 (bot protection)
+http://www.penfed.org/aspire,BLOCKED,HTTP 403 (bot protection)
+http://www.techcu.com,BLOCKED,HTTP 403 (bot protection)
+http://www.calbearcu.org,ERROR,"LocationParseError: Failed to parse: 'www.cusocal.org..', label empty or too long"
+https://www.elitephysicaltherapy.com,ERROR,"ConnectionError: HTTPSConnectionPool(host='www.elitephysicaltherapy.com', port=443): Max retries exceeded with url: / (Caused b"
+http://www.workoutwithkirk.com,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.smartfedcu.com,ERROR,HTTP 404
+https://www.penfed.org/,BLOCKED,HTTP 403 (bot protection)
+https://unionofcredit.com/index.html,ERROR,"ConnectionError: HTTPSConnectionPool(host='unionofcredit.com', port=443): Max retries exceeded with url: /index.html (Caused by"
+https://www.tcunet.com/,ERROR,"SSLError: HTTPSConnectionPool(host='www.tcunet.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSL"
+https://www.linkedin.com/pub/beth-przywojski/41/ab2/101,ERROR,HTTP 999
+http://cityofbostoncu.com,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.freedmaxick.com,ERROR,HTTP 403
+http://reach150.com/m/review/39310/george-w-navarro-cpa-pc-george-navarro-greensboro-nc-cpa,BLOCKED,HTTP 403 (bot protection)
+http://www.nationalfinance.org,ERROR,HTTP 503
+https://www.citrincooperman.com/,ERROR,HTTP 403
+http://www.cumpstoncpa.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.cumpstoncpa.com', port=80): Max retries exceeded with url: / (Caused by NameResol"
+http://sunlakescpa.com/,ERROR,"ConnectionError: HTTPConnectionPool(host='sunlakescpa.com', port=80): Max retries exceeded with url: / (Caused by NameResolutio"
+http://www.schreiberandcalvo.com/,ERROR,"ConnectionError: HTTPConnectionPool(host='www.schreiberandcalvo.com', port=80): Max retries exceeded with url: / (Caused by Nam"
+https://www.doolittlecpa.com,ERROR,"SSLError: HTTPSConnectionPool(host='www.doolittlecpa.com', port=443): Max retries exceeded with url: / (Caused by SSLErr"
+http://www.nazaire.com,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.brownjenkinsoneyear.com,PARKED,Parked / suspended domain
+http://www.idbcreditu.org,ERROR,"ConnectTimeout: HTTPConnectionPool(host='ww80.idbcreditu.org', port=80): Max retries exceeded with url: /?subid1=8956ed31-d8fd"
+https://www.tocaccounting.com/,ERROR,"ConnectTimeout: HTTPSConnectionPool(host='www.tocaccounting.com', port=443): Max retries exceeded with url: / (Caused by Conne"
+https://covalandersoncoval.com/contact/,ERROR,HTTP 404
+http://www.amecpa.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.amecpa.com', port=80): Max retries exceeded with url: / (Caused by NameResolution"
+http://rashcpa.com,ERROR,"ConnectTimeout: HTTPConnectionPool(host='rashcpa.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutErr"
+http://www.marylingcpa.com,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+https://www.pollardtaxco.com/,ERROR,"SSLError: HTTPSConnectionPool(host='www.pollardtaxco.com', port=443): Max retries exceeded with url: / (Caused by SSLErr"
+https://jwattscpa.com/home.html,ERROR,"ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+http://www.nagicpa.com,BLOCKED,HTTP 403 (bot protection)
+https://tskbi.com/,ERROR,HTTP 401
+http://giddings-associates.com,ERROR,"ConnectTimeout: HTTPConnectionPool(host='giddings-associates.com', port=80): Max retries exceeded with url: / (Caused by Conne"
+http://www.stanfieldodell.com,ERROR,HTTP 403
+http://www.clarkcocpas.com/,ERROR,"ConnectionError: HTTPConnectionPool(host='www.clarkcocpas.com', port=80): Max retries exceeded with url: / (Caused by NameResol"
+http://www.orlandocpa.net,BLOCKED,HTTP 403 (bot protection)
+http://www.taftaccountants.com,ERROR,HTTP 404
+http://www.condley.com,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.theriotaccountingfirm.com/,ERROR,"ConnectionError: HTTPConnectionPool(host='www.theriotaccountingfirm.com', port=80): Max retries exceeded with url: / (Caused by"
+http://www.hooverharriscpa.net/home,ERROR,"ConnectionError: HTTPConnectionPool(host='www.hooverharriscpa.net', port=80): Max retries exceeded with url: /home (Caused by N"
+http://www.carolinecaputowellcare.com,ERROR,HTTP 404
+http://www.canyonstatecu.org,ERROR,HTTP 409
+http://www.firstlightfcu.org,ERROR,HTTP 403
+http://memberspluscu.org,ERROR,HTTP 403
+http://www.enterprisecu.com,ERROR,HTTP 404
+http://www.firstmortgagecorpusa.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.firstmortgagecorpusa.com', port=80): Max retries exceeded with url: / (Caused by "
+http://www.cudenver.com,BLOCKED,HTTP 403 (bot protection)
+https://paddletothecore.com/,ERROR,"SSLError: HTTPSConnectionPool(host='rentasupvegas.com', port=443): Max retries exceeded with url: / (Caused by SSLError("
+http://www.bfsfcu.org,BLOCKED,HTTP 403 (bot protection)
+http://www.ginotax.com,ERROR,HTTP 403
+http://www.dctfcu.org/,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://planotaxpreparer.com,ERROR,"ConnectionError: HTTPConnectionPool(host='planotaxpreparer.com', port=80): Max retries exceeded with url: / (Caused by NameReso"
+http://www.accountantlincoln.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.accountantlincoln.com', port=80): Max retries exceeded with url: / (Caused by Nam"
+http://www.duckworthcpa.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.duckworthcpa.com', port=80): Max retries exceeded with url: / (Caused by NameReso"
+http://www.tienwangcpa.com/,ERROR,"ConnectionError: HTTPConnectionPool(host='www.tienwangcpa.com', port=80): Max retries exceeded with url: / (Caused by NameResol"
+https://johnjminnich.com,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.sorgecpa.com,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.hutchingscpas.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.hutchingscpas.com', port=80): Max retries exceeded with url: / (Caused by NameRes"
+http://www.edhaydencpa.com,ERROR,HTTP 409
+http://www.lha-cpa.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.lha-cpa.com', port=80): Max retries exceeded with url: / (Caused by NameResolutio"
+http://www.daytonkroc.com,ERROR,"ReadTimeout: HTTPConnectionPool(host='www.daytonkroc.com', port=80): Read timed out. (read timeout=12)"
+http://www.mwncpa.com,BLOCKED,HTTP 403 (bot protection)
+http://www.castanhofinancialgroup.com,BLOCKED,HTTP 403 (bot protection)
+https://www.ebcpa.net/,ERROR,"ConnectionError: HTTPSConnectionPool(host='www.ebcpa.net', port=443): Max retries exceeded with url: / (Caused by NameResolutio"
+https://www.aquinocpalaw.com,BLOCKED,HTTP 403 (bot protection)
+https://www.dennehy-petersllc.com,ERROR,"ConnectionError: HTTPSConnectionPool(host='www.dennehy-petersllc.com', port=443): Max retries exceeded with url: / (Caused by N"
+http://www.richardkleincpa.com,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+https://southkctax.com/,ERROR,HTTP 404
+https://www.shaulassociates.com/home,ERROR,HTTP 404
+http://www.gpwcpas.com,ERROR,HTTP 403
+https://www.scottwhitecpa.com/,ERROR,"ConnectTimeout: HTTPSConnectionPool(host='www.scottwhitecpa.com', port=443): Max retries exceeded with url: / (Caused by Conne"
+http://www.susanragercpa.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.susanragercpa.com', port=80): Max retries exceeded with url: / (Caused by NameRes"
+https://www.applegrowth.com/,ERROR,"SSLError: HTTPSConnectionPool(host='www.applegrowth.com', port=443): Max retries exceeded with url: / (Caused by SSLErro"
+http://www.rampacpa.com,ERROR,HTTP 409
+https://www.gpgrcpa.com/,ERROR,"ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+http://www.nicholasjonesco.com/,ERROR,"ConnectionError: HTTPConnectionPool(host='www.nicholasjonesco.com', port=80): Max retries exceeded with url: / (Caused by NameR"
+http://www.rlestercpa.com,ERROR,"ConnectionError: HTTPConnectionPool(host='www.rlestercpa.com', port=80): Max retries exceeded with url: / (Caused by NameResolu"
+http://www.mytrustedadvisor.com,BLOCKED,HTTP 403 (bot protection)
+http://louisville-tax.com/,ERROR,HTTP 404
+http://www.acctaxsolutions.net,ERROR,"ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+https://www.wade-cpa.com/pages/contact-cpa-financial-specialist-oklahoma-city-ok,ERROR,"SSLError: HTTPSConnectionPool(host='www.wade-cpa.com', port=443): Max retries exceeded with url: /pages/contact-cpa-fina"
+https://sealeycpa.com,ERROR,"ReadTimeout: HTTPSConnectionPool(host='sealeycpa.com', port=443): Read timed out. (read timeout=12)"

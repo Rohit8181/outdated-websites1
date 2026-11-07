@@ -1,0 +1,2218 @@
+url,status,reason
+https://lmcontractorspa.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://lmcontractorspa.com/
+Call log:
+  - navigating to ""https://lmcontractorspa.com/"", waiting until ""domcontentloaded""
+"
+http://eaststreetexcavation.com,FAILED,HTTP 409
+https://www.rawheatingandair.com,BLOCKED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.rawheatingandair.com/
+Call log:
+  - navigating to ""https://www.rawheatingandair.com/"", waiting until ""domcontentloaded""
+"
+http://www.justcallanc.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.justcallanc.com/
+Call log:
+  - navigating to ""https://www.justcallanc.com/"", waiting until ""domcontentloaded""
+"
+http://www.hullshc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.hullshc.com/
+Call log:
+  - navigating to ""http://www.hullshc.com/"", waiting until ""domcontentloaded""
+"
+https://smitcoconcreteconstruction.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://smitcoconcreteconstruction.com/
+Call log:
+  - navigating to ""https://smitcoconcreteconstruction.com/"", waiting until ""domcontentloaded""
+"
+https://nicks-dirt-dozer.business.site,FAILED,HTTP 404
+http://www.ridgleycontracting.com,BLOCKED,HTTP 403
+https://www.xalconstruction.com,FAILED,HTTP 404
+http://www.dirtworkwaco.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.dirtworkwaco.com/
+Call log:
+  - navigating to ""http://www.dirtworkwaco.com/"", waiting until ""domcontentloaded""
+"
+https://justtakeitllc.net,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://justtakeitllc.net/
+Call log:
+  - navigating to ""https://justtakeitllc.net/"", waiting until ""domcontentloaded""
+"
+http://www.reynoldsautowrecking.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.reynoldsautowrecking.com/
+Call log:
+  - navigating to ""http://www.reynoldsautowrecking.com/"", waiting until ""domcontentloaded""
+"
+http://www.activemember.com/proroofingremodel,FAILED,HTTP 404
+https://kingsofconcretellc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://kingsofconcretellc.com/
+Call log:
+  - navigating to ""https://kingsofconcretellc.com/"", waiting until ""domcontentloaded""
+"
+http://www.whitworthexcavatinginc.com,BLOCKED,HTTP 403
+https://airzonacomfort.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://airzonacomfort.com/
+Call log:
+  - navigating to ""https://airzonacomfort.com/"", waiting until ""domcontentloaded""
+"
+https://www.rosadocustomhomes.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.rosadocustomhomes.com/
+Call log:
+  - navigating to ""https://www.rosadocustomhomes.com/"", waiting until ""domcontentloaded""
+"
+https://homepie.com/articles/free-for-sale-by-owner-contract,BLOCKED,HTTP 403
+https://gorillacorpwestcoast.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://gorillacorpwestcoast.com/
+Call log:
+  - navigating to ""https://gorillacorpwestcoast.com/"", waiting until ""domcontentloaded""
+"
+https://www.apexfireflood.com,FAILED,HTTP 404
+http://www.majesticnterpriz.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.majesticnterpriz.com/
+Call log:
+  - navigating to ""http://www.majesticnterpriz.com/"", waiting until ""domcontentloaded""
+"
+https://www.gp-wrightconstruction.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""https://www.gp-wrightconstruction.com/"", waiting until ""domcontentloaded""
+"
+https://dukesdevelopmentcorp.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://dukesdevelopmentcorp.com/
+Call log:
+  - navigating to ""https://dukesdevelopmentcorp.com/"", waiting until ""domcontentloaded""
+"
+https://pro-custom-framing-and-development-llc.business.site,FAILED,HTTP 404
+https://www.davenportassocllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.davenportassocllc.com/
+Call log:
+  - navigating to ""https://www.davenportassocllc.com/"", waiting until ""domcontentloaded""
+"
+http://www.whitmoorecustomhomes.com,FAILED,HTTP 404
+http://www.at.construction,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.at.construction/
+Call log:
+  - navigating to ""http://www.at.construction/"", waiting until ""domcontentloaded""
+"
+http://www.buzzfile.com/business/Crozier-Custom-Homes-586-707-3559,BLOCKED,HTTP 403
+https://artisancustomhomesfl.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://artisancustomhomesfl.com/
+Call log:
+  - navigating to ""https://artisancustomhomesfl.com/"", waiting until ""domcontentloaded""
+"
+http://cobracustombuildersllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://cobracustombuildersllc.com/
+Call log:
+  - navigating to ""http://cobracustombuildersllc.com/"", waiting until ""domcontentloaded""
+"
+http://www.andrevyconstruction.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.andrevyconstruction.com/
+Call log:
+  - navigating to ""http://www.andrevyconstruction.com/"", waiting until ""domcontentloaded""
+"
+http://www.conwayserviceconstruction.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.conwayserviceconstruction.com/
+Call log:
+  - navigating to ""http://www.conwayserviceconstruction.com/"", waiting until ""domcontentloaded""
+"
+http://www.scottcampbellcustomhomes.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.scottcampbellcustomhomes.com/
+Call log:
+  - navigating to ""http://www.scottcampbellcustomhomes.com/"", waiting until ""domcontentloaded""
+"
+http://www.prestigecbc.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.prestigecbc.com/"", waiting until ""domcontentloaded""
+"
+http://2youngshomeservices.com,FAILED,HTTP 404
+http://www.killeninc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.killeninc.com/
+Call log:
+  - navigating to ""http://www.killeninc.com/"", waiting until ""domcontentloaded""
+"
+https://streamlinebuilding.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://streamlinebuilding.com/
+Call log:
+  - navigating to ""https://streamlinebuilding.com/"", waiting until ""domcontentloaded""
+"
+http://www.pacref.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.pacref.com/
+Call log:
+  - navigating to ""http://www.pacref.com/"", waiting until ""domcontentloaded""
+"
+https://eccdemolition.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://eccdemolition.com/
+Call log:
+  - navigating to ""https://eccdemolition.com/"", waiting until ""domcontentloaded""
+"
+https://crossroadsconct.com/demolition-services,FAILED,HTTP 404
+https://preferredcomfortil.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://preferredcomfortil.com/
+Call log:
+  - navigating to ""https://preferredcomfortil.com/"", waiting until ""domcontentloaded""
+"
+http://www.pmsiinc.com,BLOCKED,HTTP 403
+https://www.lifestylerenovations.com,FAILED,"Page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at https://www.lifestylerenovations.com/
+Call log:
+  - navigating to ""https://www.lifestylerenovations.com/"", waiting until ""domcontentloaded""
+"
+http://herrodbros.com,FAILED,"Page.goto: net::ERR_CONNECTION_RESET at https://herrodbros.com/
+Call log:
+  - navigating to ""https://herrodbros.com/"", waiting until ""domcontentloaded""
+"
+https://cfhauling4you.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://cfhauling4you.com/
+Call log:
+  - navigating to ""https://cfhauling4you.com/"", waiting until ""domcontentloaded""
+"
+https://www.westernfitters.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.westernfitters.com/
+Call log:
+  - navigating to ""https://www.westernfitters.com/"", waiting until ""domcontentloaded""
+"
+http://www.bureaumembers.com/leoatoneheatingnair,FAILED,HTTP 404
+http://arcexcavation.us,BLOCKED,HTTP 403
+http://figueroa-sons.business.site,FAILED,HTTP 404
+https://www.activemember.com/ctkconstruction,FAILED,HTTP 404
+http://www.scottmarckstrucking.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.scottmarckstrucking.com/
+Call log:
+  - navigating to ""http://www.scottmarckstrucking.com/"", waiting until ""domcontentloaded""
+"
+https://www.martinsconstruction.org,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.martinsconstruction.org/
+Call log:
+  - navigating to ""https://www.martinsconstruction.org/"", waiting until ""domcontentloaded""
+"
+http://www.hadrysconstruction.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.hadrysconstruction.com/
+Call log:
+  - navigating to ""http://www.hadrysconstruction.com/"", waiting until ""domcontentloaded""
+"
+http://eclatconstruction.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://eclatconstruction.com/
+Call log:
+  - navigating to ""http://eclatconstruction.com/"", waiting until ""domcontentloaded""
+"
+https://www.heritageconstructionco.com,FAILED,HTTP 526
+http://www.harmoniousdeco.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.harmoniousdeco.com/
+Call log:
+  - navigating to ""http://www.harmoniousdeco.com/"", waiting until ""domcontentloaded""
+"
+http://www.midwestcustomhomes.com,FAILED,HTTP 404
+http://www.odysseycustomhomestx.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.odysseycustomhomestx.com/
+Call log:
+  - navigating to ""http://www.odysseycustomhomestx.com/"", waiting until ""domcontentloaded""
+"
+http://zhuoconstruction.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://zhuoconstruction.com/
+Call log:
+  - navigating to ""http://zhuoconstruction.com/"", waiting until ""domcontentloaded""
+"
+https://www.totalhomeimprovementspaintingllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.totalhomeimprovementspaintingllc.com/
+Call log:
+  - navigating to ""https://www.totalhomeimprovementspaintingllc.com/"", waiting until ""domcontentloaded""
+"
+https://lrpros.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://lrpros.com/
+Call log:
+  - navigating to ""https://lrpros.com/"", waiting until ""domcontentloaded""
+"
+https://www.nslroofing.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.nslroofing.com/
+Call log:
+  - navigating to ""https://www.nslroofing.com/"", waiting until ""domcontentloaded""
+"
+https://www.ntxrooftech.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ntxrooftech.com/
+Call log:
+  - navigating to ""https://www.ntxrooftech.com/"", waiting until ""domcontentloaded""
+"
+http://www.timseymore.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.timseymore.com/
+Call log:
+  - navigating to ""http://www.timseymore.com/"", waiting until ""domcontentloaded""
+"
+http://www.superhomebuilders.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.superhomebuilders.com/
+Call log:
+  - navigating to ""http://www.superhomebuilders.com/"", waiting until ""domcontentloaded""
+"
+https://marbleheadconstruction.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://marbleheadconstruction.net/
+Call log:
+  - navigating to ""https://marbleheadconstruction.net/"", waiting until ""domcontentloaded""
+"
+https://www.metroalive.com/michigan/monroe/InnovativeCustomHomesLLC,FAILED,HTTP 500
+http://glenroberthomes.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://glenroberthomes.com/
+Call log:
+  - navigating to ""http://glenroberthomes.com/"", waiting until ""domcontentloaded""
+"
+http://www.monteithcorp.com,FAILED,HTTP 404
+http://www.allstarroofingsiding.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.allstarroofingsiding.net/
+Call log:
+  - navigating to ""http://www.allstarroofingsiding.net/"", waiting until ""domcontentloaded""
+"
+http://www.masterstch.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.masterstch.com/
+Call log:
+  - navigating to ""http://www.masterstch.com/"", waiting until ""domcontentloaded""
+"
+http://www.surehi.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at http://www.surehi.com/
+Call log:
+  - navigating to ""http://www.surehi.com/"", waiting until ""domcontentloaded""
+"
+http://www.pinpoint-co.com,FAILED,HTTP 404
+https://www.carnegiehomesusa.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""https://www.carnegiehomesusa.com/"", waiting until ""domcontentloaded""
+"
+https://www.serlucadumpster.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.serlucadumpster.com/
+Call log:
+  - navigating to ""https://www.serlucadumpster.com/"", waiting until ""domcontentloaded""
+"
+https://dukescapes.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://dukescapes.com/
+Call log:
+  - navigating to ""https://dukescapes.com/"", waiting until ""domcontentloaded""
+"
+http://www.aeropatio.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.aeropatio.com/
+Call log:
+  - navigating to ""https://www.aeropatio.com/"", waiting until ""domcontentloaded""
+"
+https://hyperionconstructionincia.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://hyperionconstructionincia.com/
+Call log:
+  - navigating to ""https://hyperionconstructionincia.com/"", waiting until ""domcontentloaded""
+"
+http://www.beautifulbydesiginlandscapes.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.beautifulbydesiginlandscapes.com/
+Call log:
+  - navigating to ""http://www.beautifulbydesiginlandscapes.com/"", waiting until ""domcontentloaded""
+"
+https://regiongrp.com,BLOCKED,"Page.goto: net::ERR_CONNECTION_REFUSED at https://regiongrp.com/
+Call log:
+  - navigating to ""https://regiongrp.com/"", waiting until ""domcontentloaded""
+"
+https://rexalldemolition.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://rexalldemolition.com/
+Call log:
+  - navigating to ""https://rexalldemolition.com/"", waiting until ""domcontentloaded""
+"
+http://www.jrdemolition.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.jrdemolition.com/
+Call log:
+  - navigating to ""http://www.jrdemolition.com/"", waiting until ""domcontentloaded""
+"
+https://corpsrestoration.com,BLOCKED,HTTP 403
+https://t-lope.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://t-lope.com/
+Call log:
+  - navigating to ""https://t-lope.com/"", waiting until ""domcontentloaded""
+"
+http://www.boesbrothersincoh.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.boesbrothersincoh.com/
+Call log:
+  - navigating to ""http://www.boesbrothersincoh.com/"", waiting until ""domcontentloaded""
+"
+http://bullcitydiggindemollc.business.site,FAILED,HTTP 404
+http://www.activemember.com/jeremycraigconstruction,FAILED,HTTP 404
+http://www.centralmassbuilding.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.centralmassbuilding.net/
+Call log:
+  - navigating to ""http://www.centralmassbuilding.net/"", waiting until ""domcontentloaded""
+"
+https://www.k21demoandhauling.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.k21demoandhauling.com/
+Call log:
+  - navigating to ""https://www.k21demoandhauling.com/"", waiting until ""domcontentloaded""
+"
+http://www.thomascustombuilders.info,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.thomascustombuilders.info/
+Call log:
+  - navigating to ""http://www.thomascustombuilders.info/"", waiting until ""domcontentloaded""
+"
+http://carecustomcontracting.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://carecustomcontracting.com/
+Call log:
+  - navigating to ""http://carecustomcontracting.com/"", waiting until ""domcontentloaded""
+"
+http://burghen.com,BLOCKED,HTTP 403
+http://coastlinebuilders.net,FAILED,HTTP 409
+http://www.santorobuilding.com,FAILED,HTTP 404
+http://www.constructionofventura.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.constructionofventura.com/
+Call log:
+  - navigating to ""http://www.constructionofventura.com/"", waiting until ""domcontentloaded""
+"
+http://www.molidorbldr.com,FAILED,HTTP 530
+http://www.hawkinsbellcustomhomes.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.hawkinsbellcustomhomes.com/
+Call log:
+  - navigating to ""http://www.hawkinsbellcustomhomes.com/"", waiting until ""domcontentloaded""
+"
+http://www.jonathoncustomhomes.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.jonathoncustomhomes.com/
+Call log:
+  - navigating to ""http://www.jonathoncustomhomes.com/"", waiting until ""domcontentloaded""
+"
+https://www.hannbuilt.com,FAILED,HTTP 520
+http://www.cannoncustomhomesinc.com,FAILED,HTTP 404
+http://www.swhbhomebuilder.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.swhbhomebuilder.com/
+Call log:
+  - navigating to ""http://www.swhbhomebuilder.com/"", waiting until ""domcontentloaded""
+"
+http://ranallibuilders.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://ranallibuilders.com/
+Call log:
+  - navigating to ""http://ranallibuilders.com/"", waiting until ""domcontentloaded""
+"
+http://www.luxmanorhomes.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.luxmanorhomes.com/
+Call log:
+  - navigating to ""https://www.luxmanorhomes.com/"", waiting until ""domcontentloaded""
+"
+http://barreratexasbuilders.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://barreratexasbuilders.com/
+Call log:
+  - navigating to ""http://barreratexasbuilders.com/"", waiting until ""domcontentloaded""
+"
+https://texashillcountryconstruction.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://texashillcountryconstruction.com/
+Call log:
+  - navigating to ""https://texashillcountryconstruction.com/"", waiting until ""domcontentloaded""
+"
+http://www.alairhomes.com,BLOCKED,HTTP 403
+http://tm-br.com,BLOCKED,HTTP 403
+https://buildingconceptstampa.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://buildingconceptstampa.com/
+Call log:
+  - navigating to ""https://buildingconceptstampa.com/"", waiting until ""domcontentloaded""
+"
+http://www.carringtonhomes.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.carringtonhomes.com/
+Call log:
+  - navigating to ""http://www.carringtonhomes.com/"", waiting until ""domcontentloaded""
+"
+http://www.neffcustombuilders.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.neffcustombuilders.com/
+Call log:
+  - navigating to ""http://www.neffcustombuilders.com/"", waiting until ""domcontentloaded""
+"
+http://www.silvestrihomes.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.silvestrihomes.com/
+Call log:
+  - navigating to ""http://www.silvestrihomes.com/"", waiting until ""domcontentloaded""
+"
+http://www.embarkasset.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.embarkasset.com/"", waiting until ""domcontentloaded""
+"
+https://cherokeecontractinginc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://cherokeecontractinginc.com/
+Call log:
+  - navigating to ""https://cherokeecontractinginc.com/"", waiting until ""domcontentloaded""
+"
+http://www.cooperconstructionco.com,FAILED,HTTP 409
+https://temp-assure-heating-air-conditioning.business.site,FAILED,HTTP 404
+https://gozenconstruction.com,FAILED,HTTP 500
+https://dcdconstruction.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://dcdconstruction.net/
+Call log:
+  - navigating to ""https://dcdconstruction.net/"", waiting until ""domcontentloaded""
+"
+http://superbdrywall.blogspot.com,BLOCKED,HTTP 429
+https://www.redwolfmechanicalusa.com/?fbclid=iwar3evv0kwullidtafoodk3tnc5wh_wgohemb5zi9efucymycpdhk0tix2aa,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.redwolfmechanicalusa.com/?fbclid=iwar3evv0kwullidtafoodk3tnc5wh_wgohemb5zi9efucymycpdhk0tix2aa
+Call log:
+  - navigating to ""https://www.redwolfmechanicalusa.com/?fbclid=iwar3evv0kwullidtafoodk3tnc5wh_wgohemb5zi9efucymycpdhk0tix2aa"", waiting until ""domcontentloaded""
+"
+http://www.aacustomhr.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.aacustomhr.com/
+Call log:
+  - navigating to ""http://www.aacustomhr.com/"", waiting until ""domcontentloaded""
+"
+http://www.boomerspropertydevelopment.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.boomerspropertydevelopment.com/
+Call log:
+  - navigating to ""http://www.boomerspropertydevelopment.com/"", waiting until ""domcontentloaded""
+"
+https://www.dfwdemolitionandexcavating.com,FAILED,HTTP 503
+https://cwrpropertyservices.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://cwrpropertyservices.com/
+Call log:
+  - navigating to ""https://cwrpropertyservices.com/"", waiting until ""domcontentloaded""
+"
+http://www.ohiodismantle.com,FAILED,HTTP 404
+https://www.opconstructionnc.com,FAILED,HTTP 404
+http://www.dominoconst.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.dominoconst.com/
+Call log:
+  - navigating to ""http://www.dominoconst.com/"", waiting until ""domcontentloaded""
+"
+http://goldenbuilder.net,FAILED,HTTP 500
+https://billreedtruckandtractor.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://billreedtruckandtractor.com/
+Call log:
+  - navigating to ""https://billreedtruckandtractor.com/"", waiting until ""domcontentloaded""
+"
+http://prounitedhvac.com,BLOCKED,HTTP 403
+http://www.clearwatersolutionsllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.clearwatersolutionsllc.com/
+Call log:
+  - navigating to ""http://www.clearwatersolutionsllc.com/"", waiting until ""domcontentloaded""
+"
+https://buildersig.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://buildersig.com/
+Call log:
+  - navigating to ""https://buildersig.com/"", waiting until ""domcontentloaded""
+"
+http://www.kwolfcustomhomes.com,FAILED,HTTP 404
+http://mlmconstruct.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://mlmconstruct.com/
+Call log:
+  - navigating to ""http://mlmconstruct.com/"", waiting until ""domcontentloaded""
+"
+https://www.varrobuilders.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.varrobuilders.com/
+Call log:
+  - navigating to ""https://www.varrobuilders.com/"", waiting until ""domcontentloaded""
+"
+https://empowerbuildingco.wixsite.com/1909,FAILED,HTTP 404
+http://perfection-home.com/index.html,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://perfection-home.com/index.html
+Call log:
+  - navigating to ""http://perfection-home.com/index.html"", waiting until ""domcontentloaded""
+"
+http://www.davincicustomcarpentry.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.davincicustomcarpentry.com/
+Call log:
+  - navigating to ""http://www.davincicustomcarpentry.com/"", waiting until ""domcontentloaded""
+"
+http://amayesingcontracting.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://amayesingcontracting.com/
+Call log:
+  - navigating to ""http://amayesingcontracting.com/"", waiting until ""domcontentloaded""
+"
+http://www.matternandfitzgerald.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.matternandfitzgerald.com/
+Call log:
+  - navigating to ""http://www.matternandfitzgerald.com/"", waiting until ""domcontentloaded""
+"
+http://harmonycustomhomestexas.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://harmonycustomhomestexas.com/
+Call log:
+  - navigating to ""http://harmonycustomhomestexas.com/"", waiting until ""domcontentloaded""
+"
+http://vmhomepros.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at http://vmhomepros.com/
+Call log:
+  - navigating to ""http://vmhomepros.com/"", waiting until ""domcontentloaded""
+"
+http://jeffchafinhomes.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://jeffchafinhomes.com/
+Call log:
+  - navigating to ""http://jeffchafinhomes.com/"", waiting until ""domcontentloaded""
+"
+http://www.betterhomesconst.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.betterhomesconst.com/
+Call log:
+  - navigating to ""http://www.betterhomesconst.com/"", waiting until ""domcontentloaded""
+"
+http://www.higginscustombuilders.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.higginscustombuilders.com/
+Call log:
+  - navigating to ""http://www.higginscustombuilders.com/"", waiting until ""domcontentloaded""
+"
+http://customtouchhomes.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://customtouchhomes.net/
+Call log:
+  - navigating to ""http://customtouchhomes.net/"", waiting until ""domcontentloaded""
+"
+http://synergycustombuilders.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://synergycustombuilders.com/
+Call log:
+  - navigating to ""http://synergycustombuilders.com/"", waiting until ""domcontentloaded""
+"
+http://www.bettermanbuilders.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.bettermanbuilders.com/
+Call log:
+  - navigating to ""http://www.bettermanbuilders.com/"", waiting until ""domcontentloaded""
+"
+https://legendarycustomhomes.com,BLOCKED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://legendarycustomhomes.com/
+Call log:
+  - navigating to ""https://legendarycustomhomes.com/"", waiting until ""domcontentloaded""
+"
+https://thsgreenwood.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://thsgreenwood.com/
+Call log:
+  - navigating to ""https://thsgreenwood.com/"", waiting until ""domcontentloaded""
+"
+http://www.cartycustombuilders.com,FAILED,HTTP 404
+http://northeastexcavating.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://northeastexcavating.net/
+Call log:
+  - navigating to ""http://northeastexcavating.net/"", waiting until ""domcontentloaded""
+"
+http://www.affordableheatingandcoolingonline.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.affordableheatingandcoolingonline.com/
+Call log:
+  - navigating to ""http://www.affordableheatingandcoolingonline.com/"", waiting until ""domcontentloaded""
+"
+http://www.completecomfort-hvac.com,FAILED,HTTP 409
+https://aircleanenvinc.com,FAILED,HTTP 520
+http://www.vmrremodelinginc.com,FAILED,HTTP 500
+http://www.competitiveheating.net,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.competitiveheating.net/
+Call log:
+  - navigating to ""http://www.competitiveheating.net/"", waiting until ""domcontentloaded""
+"
+https://www.americanoutdoorservices.us,FAILED,HTTP 404
+http://copanobayexcavation.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://copanobayexcavation.com/
+Call log:
+  - navigating to ""http://copanobayexcavation.com/"", waiting until ""domcontentloaded""
+"
+http://www.nexgenservices.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.nexgenservices.net/
+Call log:
+  - navigating to ""http://www.nexgenservices.net/"", waiting until ""domcontentloaded""
+"
+http://www.bbbsites.com/pesaconstruction,FAILED,HTTP 404
+http://www.allstarcentralflorida.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.allstarcentralflorida.com/
+Call log:
+  - navigating to ""http://www.allstarcentralflorida.com/"", waiting until ""domcontentloaded""
+"
+https://dtdemodebris.weebly.com,FAILED,HTTP 404
+https://brittstreeandexcavationservices.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://brittstreeandexcavationservices.com/
+Call log:
+  - navigating to ""https://brittstreeandexcavationservices.com/"", waiting until ""domcontentloaded""
+"
+https://classicindincnm.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://classicindincnm.com/
+Call log:
+  - navigating to ""https://classicindincnm.com/"", waiting until ""domcontentloaded""
+"
+https://pinelandrentals.com,BLOCKED,HTTP 403
+https://sarkpoint.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://sarkpoint.com/
+Call log:
+  - navigating to ""https://sarkpoint.com/"", waiting until ""domcontentloaded""
+"
+http://www.3rsconstruction.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.3rsconstruction.com/
+Call log:
+  - navigating to ""http://www.3rsconstruction.com/"", waiting until ""domcontentloaded""
+"
+https://atlanticbuildersnj.com/index.html,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://atlanticbuildersnj.com/index.html
+Call log:
+  - navigating to ""https://atlanticbuildersnj.com/index.html"", waiting until ""domcontentloaded""
+"
+http://www.richardfhallcustomhomes.com,FAILED,HTTP 404
+https://goldcoastsolutions.com,BLOCKED,HTTP 403
+http://www.mlcustomhomes.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.mlcustomhomes.com/
+Call log:
+  - navigating to ""http://www.mlcustomhomes.com/"", waiting until ""domcontentloaded""
+"
+http://www.reganbuilt.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.reganbuilt.com/
+Call log:
+  - navigating to ""http://www.reganbuilt.com/"", waiting until ""domcontentloaded""
+"
+http://www.centuryhomesaz.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.centuryhomesaz.com/
+Call log:
+  - navigating to ""http://www.centuryhomesaz.com/"", waiting until ""domcontentloaded""
+"
+http://kuhlmannconstruction.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://kuhlmannconstruction.com/
+Call log:
+  - navigating to ""https://kuhlmannconstruction.com/"", waiting until ""domcontentloaded""
+"
+https://www.durayscustomhomes.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.durayscustomhomes.com/
+Call log:
+  - navigating to ""https://www.durayscustomhomes.com/"", waiting until ""domcontentloaded""
+"
+https://poteethomebuilders.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://poteethomebuilders.com/
+Call log:
+  - navigating to ""https://poteethomebuilders.com/"", waiting until ""domcontentloaded""
+"
+http://www.simpsonandgardner.com,FAILED,HTTP 409
+https://lccontractinghvac.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""https://lccontractinghvac.com/"", waiting until ""domcontentloaded""
+"
+http://colabianchibuilders.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://colabianchibuilders.com/
+Call log:
+  - navigating to ""http://colabianchibuilders.com/"", waiting until ""domcontentloaded""
+"
+http://www.brunsbuilderservices.com,FAILED,"Page.goto: net::ERR_CONNECTION_REFUSED at http://www.brunsbuilderservices.com/
+Call log:
+  - navigating to ""http://www.brunsbuilderservices.com/"", waiting until ""domcontentloaded""
+"
+http://platinumhomedesigners.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://platinumhomedesigners.com/"", waiting until ""domcontentloaded""
+"
+http://www.landmarkhomesmi.com,FAILED,HTTP 404
+http://www.rkwrealty.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.rkwrealty.com/
+Call log:
+  - navigating to ""https://www.rkwrealty.com/"", waiting until ""domcontentloaded""
+"
+http://www.homesbycoronado.com,FAILED,HTTP 409
+http://www.kccustombuilders.net,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.kccustombuilders.net/"", waiting until ""domcontentloaded""
+"
+http://www.wildheartbulk.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.wildheartbulk.com/
+Call log:
+  - navigating to ""http://www.wildheartbulk.com/"", waiting until ""domcontentloaded""
+"
+http://www.reliancecontracting.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.reliancecontracting.net/
+Call log:
+  - navigating to ""http://www.reliancecontracting.net/"", waiting until ""domcontentloaded""
+"
+https://melroseparkdemolitioncontractor.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://melroseparkdemolitioncontractor.com/
+Call log:
+  - navigating to ""https://melroseparkdemolitioncontractor.com/"", waiting until ""domcontentloaded""
+"
+http://www.themusclemnd.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.themusclemnd.com/
+Call log:
+  - navigating to ""http://www.themusclemnd.com/"", waiting until ""domcontentloaded""
+"
+https://www.sanzelconstructionanddrywall.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.sanzelconstructionanddrywall.com/
+Call log:
+  - navigating to ""https://www.sanzelconstructionanddrywall.com/"", waiting until ""domcontentloaded""
+"
+https://ferguson-labor-company.business.site,FAILED,HTTP 404
+http://www.cookengineeringinc.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.cookengineeringinc.com/
+Call log:
+  - navigating to ""http://www.cookengineeringinc.com/"", waiting until ""domcontentloaded""
+"
+http://www.ssbuildersohio.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.ssbuildersohio.com/
+Call log:
+  - navigating to ""http://www.ssbuildersohio.com/"", waiting until ""domcontentloaded""
+"
+http://acprostx.com,BLOCKED,HTTP 403
+https://1stchoicejunkremovalnc.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://1stchoicejunkremovalnc.com/
+Call log:
+  - navigating to ""https://1stchoicejunkremovalnc.com/"", waiting until ""domcontentloaded""
+"
+https://www.carolinaconstructionplus.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.carolinaconstructionplus.com/
+Call log:
+  - navigating to ""https://www.carolinaconstructionplus.com/"", waiting until ""domcontentloaded""
+"
+http://www.activemember.com/ridgelineroofingsolutions,FAILED,HTTP 404
+http://www.4acesrestoration.com,BLOCKED,HTTP 403
+http://www.gscbuilders.com/index.php/about-us,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.gscbuilders.com/index.php/about-us
+Call log:
+  - navigating to ""http://www.gscbuilders.com/index.php/about-us"", waiting until ""domcontentloaded""
+"
+http://www.dbkbuilders.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.dbkbuilders.com/
+Call log:
+  - navigating to ""http://www.dbkbuilders.com/"", waiting until ""domcontentloaded""
+"
+https://mlifeconsultants.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://mlifeconsultants.com/
+Call log:
+  - navigating to ""https://mlifeconsultants.com/"", waiting until ""domcontentloaded""
+"
+http://jerseyhomerepair.com,FAILED,HTTP 503
+http://www.laconhomeshouston.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.laconhomeshouston.com/
+Call log:
+  - navigating to ""http://www.laconhomeshouston.com/"", waiting until ""domcontentloaded""
+"
+http://www.EagleRockCustomHomes.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.eaglerockcustomhomes.com/
+Call log:
+  - navigating to ""http://www.eaglerockcustomhomes.com/"", waiting until ""domcontentloaded""
+"
+http://www.mchbuilders.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.mchbuilders.com/
+Call log:
+  - navigating to ""http://www.mchbuilders.com/"", waiting until ""domcontentloaded""
+"
+http://www.beavercontracting.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.beavercontracting.com/
+Call log:
+  - navigating to ""http://www.beavercontracting.com/"", waiting until ""domcontentloaded""
+"
+https://waldeshi.webs.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://waldeshi.webs.com/
+Call log:
+  - navigating to ""https://waldeshi.webs.com/"", waiting until ""domcontentloaded""
+"
+http://www.dbhomerepair.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.dbhomerepair.com/
+Call log:
+  - navigating to ""http://www.dbhomerepair.com/"", waiting until ""domcontentloaded""
+"
+http://Cuttingedgecustomhomes.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://cuttingedgecustomhomes.com/
+Call log:
+  - navigating to ""http://cuttingedgecustomhomes.com/"", waiting until ""domcontentloaded""
+"
+https://rogueoneconstruction.wordpress.com,BLOCKED,HTTP 403
+https://ralph-miller-sae8.squarespace.com,FAILED,HTTP 404
+http://www.cormanleigh.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.cormanleigh.com/
+Call log:
+  - navigating to ""http://www.cormanleigh.com/"", waiting until ""domcontentloaded""
+"
+https://www.ammiratoconstruction.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.ammiratoconstruction.com/
+Call log:
+  - navigating to ""https://www.ammiratoconstruction.com/"", waiting until ""domcontentloaded""
+"
+http://http://www.kicklightercustomhomes.com/contact_us,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://http//www.kicklightercustomhomes.com/contact_us
+Call log:
+  - navigating to ""http://http//www.kicklightercustomhomes.com/contact_us"", waiting until ""domcontentloaded""
+"
+http://www.urbanperchhomes.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.urbanperchhomes.com/
+Call log:
+  - navigating to ""http://www.urbanperchhomes.com/"", waiting until ""domcontentloaded""
+"
+http://seggiecustombuilders.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://seggiecustombuilders.com/
+Call log:
+  - navigating to ""http://seggiecustombuilders.com/"", waiting until ""domcontentloaded""
+"
+http://www.cshomes.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.cshomes.com/
+Call log:
+  - navigating to ""http://www.cshomes.com/"", waiting until ""domcontentloaded""
+"
+https://ecdesignbuilds.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://ecdesignbuilds.com/
+Call log:
+  - navigating to ""https://ecdesignbuilds.com/"", waiting until ""domcontentloaded""
+"
+http://www.zimmermanconstruction.net,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.zimmermanconstruction.net/
+Call log:
+  - navigating to ""http://www.zimmermanconstruction.net/"", waiting until ""domcontentloaded""
+"
+http://www.landjdemo.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.landjdemo.com/
+Call log:
+  - navigating to ""http://www.landjdemo.com/"", waiting until ""domcontentloaded""
+"
+http://www.allseasonsheating.net,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.allseasonsheating.net/
+Call log:
+  - navigating to ""http://www.allseasonsheating.net/"", waiting until ""domcontentloaded""
+"
+https://www.geofillconstruction.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.geofillconstruction.com/
+Call log:
+  - navigating to ""https://www.geofillconstruction.com/"", waiting until ""domcontentloaded""
+"
+http://www.classicconstruction.com,FAILED,HTTP 503
+http://mwconstructionservicesllc.business.site,FAILED,HTTP 404
+http://www.bayareastructuralinc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.bayareastructuralinc.com/
+Call log:
+  - navigating to ""http://www.bayareastructuralinc.com/"", waiting until ""domcontentloaded""
+"
+https://roofohio.com,BLOCKED,"Page.goto: net::ERR_CONNECTION_RESET at https://roofohio.com/
+Call log:
+  - navigating to ""https://roofohio.com/"", waiting until ""domcontentloaded""
+"
+https://joeshaulingandpropertycleanup.net,BLOCKED,"Page.goto: net::ERR_CONNECTION_RESET at https://joeshaulingandpropertycleanup.net/
+Call log:
+  - navigating to ""https://joeshaulingandpropertycleanup.net/"", waiting until ""domcontentloaded""
+"
+https://grandmeade.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://grandmeade.com/
+Call log:
+  - navigating to ""https://grandmeade.com/"", waiting until ""domcontentloaded""
+"
+https://www.flowersheatingandair.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.flowersheatingandair.net/
+Call log:
+  - navigating to ""https://www.flowersheatingandair.net/"", waiting until ""domcontentloaded""
+"
+https://kurtzhalz.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://kurtzhalz.com/
+Call log:
+  - navigating to ""https://kurtzhalz.com/"", waiting until ""domcontentloaded""
+"
+http://www.activemember.com/ellisonshomeimprovement,FAILED,HTTP 404
+http://www.lawncareplusma.com,BLOCKED,HTTP 403
+http://lemonsheatingandcooling.com,BLOCKED,HTTP 403
+http://ojohnsonenterprises.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://ojohnsonenterprises.com/
+Call log:
+  - navigating to ""http://ojohnsonenterprises.com/"", waiting until ""domcontentloaded""
+"
+http://www.hinsfordbuilders.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.hinsfordbuilders.com/
+Call log:
+  - navigating to ""http://www.hinsfordbuilders.com/"", waiting until ""domcontentloaded""
+"
+http://www.centralyorkcorp.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.centralyorkcorp.com/
+Call log:
+  - navigating to ""https://www.centralyorkcorp.com/"", waiting until ""domcontentloaded""
+"
+http://kippcarting.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://kippcarting.com/"", waiting until ""domcontentloaded""
+"
+https://www.ciconstructionincca.com,BLOCKED,HTTP 403
+https://sgqualitypainting.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://sgqualitypainting.com/
+Call log:
+  - navigating to ""https://sgqualitypainting.com/"", waiting until ""domcontentloaded""
+"
+http://www.infinbuilders.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.infinbuilders.com/
+Call log:
+  - navigating to ""http://www.infinbuilders.com/"", waiting until ""domcontentloaded""
+"
+http://savala-construction-incorporated.business.site,FAILED,HTTP 404
+http://www.rohewright.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.rohewright.com/
+Call log:
+  - navigating to ""http://www.rohewright.com/"", waiting until ""domcontentloaded""
+"
+http://herberthconstructionsa.com,BLOCKED,HTTP 403
+https://steveappinhomes.com,BLOCKED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://steveappinhomes.com/
+Call log:
+  - navigating to ""https://steveappinhomes.com/"", waiting until ""domcontentloaded""
+"
+http://www.bathandkitchenrenovations.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""https://www.bathandkitchenrenovations.com/"", waiting until ""domcontentloaded""
+"
+http://www.champagnebuilders.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.champagnebuilders.com/
+Call log:
+  - navigating to ""http://www.champagnebuilders.com/"", waiting until ""domcontentloaded""
+"
+http://www.cconcepts.org,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.cconcepts.org/
+Call log:
+  - navigating to ""http://www.cconcepts.org/"", waiting until ""domcontentloaded""
+"
+http://keystonecustomhomesllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://keystonecustomhomesllc.com/
+Call log:
+  - navigating to ""http://keystonecustomhomesllc.com/"", waiting until ""domcontentloaded""
+"
+http://www.jthebuilder.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.jthebuilder.com/
+Call log:
+  - navigating to ""http://www.jthebuilder.com/"", waiting until ""domcontentloaded""
+"
+http://www.spatigandsons.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.spatigandsons.com/
+Call log:
+  - navigating to ""http://www.spatigandsons.com/"", waiting until ""domcontentloaded""
+"
+http://montereybaybuildersinc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://montereybaybuildersinc.com/
+Call log:
+  - navigating to ""http://montereybaybuildersinc.com/"", waiting until ""domcontentloaded""
+"
+http://iusehandymanjoe.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://iusehandymanjoe.com/
+Call log:
+  - navigating to ""http://iusehandymanjoe.com/"", waiting until ""domcontentloaded""
+"
+http://lakerebuilds.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://lakerebuilds.com/
+Call log:
+  - navigating to ""http://lakerebuilds.com/"", waiting until ""domcontentloaded""
+"
+http://www.twchinc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.twchinc.com/
+Call log:
+  - navigating to ""http://www.twchinc.com/"", waiting until ""domcontentloaded""
+"
+http://www.williamscustomartbuilders.com,BLOCKED,HTTP 403
+http://www.meldeonhomes.com,FAILED,HTTP 404
+http://barnettcustomhomesinc.trustab.org,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://barnettcustomhomesinc.trustab.org/"", waiting until ""domcontentloaded""
+"
+https://www.carmelbuilding.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""https://www.carmelbuilding.com/"", waiting until ""domcontentloaded""
+"
+http://www.jandpbuilders.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.jandpbuilders.com/
+Call log:
+  - navigating to ""http://www.jandpbuilders.com/"", waiting until ""domcontentloaded""
+"
+http://americanbuilderpros.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://americanbuilderpros.com/
+Call log:
+  - navigating to ""http://americanbuilderpros.com/"", waiting until ""domcontentloaded""
+"
+http://www.randrservicenter.net,FAILED,"Page.goto: net::ERR_CONNECTION_RESET at https://www.randrservicenter.net/
+Call log:
+  - navigating to ""https://www.randrservicenter.net/"", waiting until ""domcontentloaded""
+"
+http://expertairhvac.com,FAILED,HTTP 404
+https://www.a1treeandlandscaping.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.a1treeandlandscaping.net/
+Call log:
+  - navigating to ""https://www.a1treeandlandscaping.net/"", waiting until ""domcontentloaded""
+"
+http://www.corequality.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.corequality.net/
+Call log:
+  - navigating to ""http://www.corequality.net/"", waiting until ""domcontentloaded""
+"
+http://cjmarvanconstruction.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://cjmarvanconstruction.com/
+Call log:
+  - navigating to ""http://cjmarvanconstruction.com/"", waiting until ""domcontentloaded""
+"
+https://www.instagram.com/txst315,BLOCKED,HTTP 429
+http://fivestarservices-inc.com,FAILED,HTTP 500
+https://jtsexcavatingagg.com,BLOCKED,"Page.goto: net::ERR_CONNECTION_RESET at https://jtsexcavatingagg.com/
+Call log:
+  - navigating to ""https://jtsexcavatingagg.com/"", waiting until ""domcontentloaded""
+"
+https://ryanfletchertc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://ryanfletchertc.com/
+Call log:
+  - navigating to ""https://ryanfletchertc.com/"", waiting until ""domcontentloaded""
+"
+http://biggswrecking.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://biggswrecking.com/
+Call log:
+  - navigating to ""http://biggswrecking.com/"", waiting until ""domcontentloaded""
+"
+http://www.stomperconcrete.co,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.stomperconcrete.co/
+Call log:
+  - navigating to ""http://www.stomperconcrete.co/"", waiting until ""domcontentloaded""
+"
+https://www.springcreekheatingandcooling.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.springcreekheatingandcooling.com/
+Call log:
+  - navigating to ""https://www.springcreekheatingandcooling.com/"", waiting until ""domcontentloaded""
+"
+https://www.pro-constructcleaning.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pro-constructcleaning.com/
+Call log:
+  - navigating to ""https://www.pro-constructcleaning.com/"", waiting until ""domcontentloaded""
+"
+http://www.premierqualitystampedconcrete.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.premierqualitystampedconcrete.com/
+Call log:
+  - navigating to ""http://www.premierqualitystampedconcrete.com/"", waiting until ""domcontentloaded""
+"
+http://www.talkingjunkva.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.talkingjunkva.com/
+Call log:
+  - navigating to ""http://www.talkingjunkva.com/"", waiting until ""domcontentloaded""
+"
+https://www.clarkhomesct.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.clarkhomesct.com/
+Call log:
+  - navigating to ""https://www.clarkhomesct.com/"", waiting until ""domcontentloaded""
+"
+https://www.larkgroupinc.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""https://www.larkgroupinc.com/"", waiting until ""domcontentloaded""
+"
+http://m-1framingsubsinc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://m-1framingsubsinc.com/
+Call log:
+  - navigating to ""http://m-1framingsubsinc.com/"", waiting until ""domcontentloaded""
+"
+https://www.jlccustom.com,FAILED,HTTP 404
+https://blackjackbuilders.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://blackjackbuilders.com/
+Call log:
+  - navigating to ""https://blackjackbuilders.com/"", waiting until ""domcontentloaded""
+"
+http://www.gabaycustomhomes.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.gabaycustomhomes.com/
+Call log:
+  - navigating to ""http://www.gabaycustomhomes.com/"", waiting until ""domcontentloaded""
+"
+http://www.wasteservicesofthebluegrass.com,FAILED,HTTP 522
+https://lablonde.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://lablonde.com/
+Call log:
+  - navigating to ""https://lablonde.com/"", waiting until ""domcontentloaded""
+"
+http://www.a-jcustomhomes.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.a-jcustomhomes.com/
+Call log:
+  - navigating to ""http://www.a-jcustomhomes.com/"", waiting until ""domcontentloaded""
+"
+https://www.michelsenhomeimprovement.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.michelsenhomeimprovement.com/
+Call log:
+  - navigating to ""https://www.michelsenhomeimprovement.com/"", waiting until ""domcontentloaded""
+"
+https://www.hevnar.com,FAILED,HTTP 404
+http://Prettymanbuilders.Com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://prettymanbuilders.com/
+Call log:
+  - navigating to ""https://prettymanbuilders.com/"", waiting until ""domcontentloaded""
+"
+https://www.andersonpreiss.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.andersonpreiss.com/
+Call log:
+  - navigating to ""https://www.andersonpreiss.com/"", waiting until ""domcontentloaded""
+"
+http://www.tisdaleconstruction.com,BLOCKED,HTTP 403
+https://watsonvilleremodeling.com,BLOCKED,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://watsonvilleremodeling.com/
+Call log:
+  - navigating to ""https://watsonvilleremodeling.com/"", waiting until ""domcontentloaded""
+"
+http://www.performancehomeimprovement.com,BLOCKED,HTTP 403
+http://monroecustombuilders.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://monroecustombuilders.com/
+Call log:
+  - navigating to ""http://monroecustombuilders.com/"", waiting until ""domcontentloaded""
+"
+http://focushomes.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://focushomes.com/
+Call log:
+  - navigating to ""http://focushomes.com/"", waiting until ""domcontentloaded""
+"
+https://www.americanabuilders.org,FAILED,HTTP 404
+https://www.instagram.com/maxximaconcrete/?hl=en,BLOCKED,HTTP 429
+https://complete-home-renovations-construction.business.site,FAILED,HTTP 404
+https://www.carlsbadconcretecutting.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.carlsbadconcretecutting.com/
+Call log:
+  - navigating to ""https://www.carlsbadconcretecutting.com/"", waiting until ""domcontentloaded""
+"
+http://www.asbestosleadpaintremovalma.com,FAILED,HTTP 404
+https://www.rickykimmonshandymanservice.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rickykimmonshandymanservice.com/
+Call log:
+  - navigating to ""https://www.rickykimmonshandymanservice.com/"", waiting until ""domcontentloaded""
+"
+https://www.geothermalspecialist.biz,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.geothermalspecialist.biz/
+Call log:
+  - navigating to ""https://www.geothermalspecialist.biz/"", waiting until ""domcontentloaded""
+"
+http://www.trianglelawnspecialists.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.trianglelawnspecialists.com/
+Call log:
+  - navigating to ""http://www.trianglelawnspecialists.com/"", waiting until ""domcontentloaded""
+"
+http://beaumontironandmetal.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://beaumontironandmetal.com/
+Call log:
+  - navigating to ""http://beaumontironandmetal.com/"", waiting until ""domcontentloaded""
+"
+http://www.acbyroberts.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.acbyroberts.com/
+Call log:
+  - navigating to ""https://www.acbyroberts.com/"", waiting until ""domcontentloaded""
+"
+https://handkcontracting.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://handkcontracting.com/
+Call log:
+  - navigating to ""https://handkcontracting.com/"", waiting until ""domcontentloaded""
+"
+http://www.emconstructiontx.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at http://www.emconstructiontx.com/
+Call log:
+  - navigating to ""http://www.emconstructiontx.com/"", waiting until ""domcontentloaded""
+"
+http://www.callautumn.com,BLOCKED,HTTP 403
+https://reliableexcavatingllc.com,FAILED,HTTP 404
+http://allweatherroofingandremodeling.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://allweatherroofingandremodeling.com/
+Call log:
+  - navigating to ""http://allweatherroofingandremodeling.com/"", waiting until ""domcontentloaded""
+"
+https://alatiexcavation.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://alatiexcavation.com/
+Call log:
+  - navigating to ""https://alatiexcavation.com/"", waiting until ""domcontentloaded""
+"
+http://www.daviscomfort.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.daviscomfort.com/
+Call log:
+  - navigating to ""http://www.daviscomfort.com/"", waiting until ""domcontentloaded""
+"
+http://www.activemember.com/clintonwalkerconstruction,FAILED,HTTP 404
+http://www.acutehvac.com,BLOCKED,HTTP 403
+http://www.cmccon.com,BLOCKED,HTTP 403
+https://www.areacontractorsllc.com,BLOCKED,HTTP 403
+https://cornerstoneheatingsummit.com,BLOCKED,HTTP 403
+http://www.brennanheating.com,BLOCKED,HTTP 403
+http://www.capnovateconstruction.com,FAILED,HTTP 500
+https://www.localpainting.net/California/Affordable-Quality-Painting-5827.html,FAILED,HTTP 404
+http://jnabuildingco.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://jnabuildingco.com/
+Call log:
+  - navigating to ""http://jnabuildingco.com/"", waiting until ""domcontentloaded""
+"
+http://www.y9construction.com,BLOCKED,HTTP 403
+https://micor-custom-homes-llc.business.site,FAILED,HTTP 404
+https://www.ameristarbuilders.com/index.html?fbclid=IwAR2fRHgBHDQiEVtDb74DCPAIFN9AggBcB11W7hGPTsy9PZXR-SNOKf5nkE0,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ameristarbuilders.com/index.html?fbclid=IwAR2fRHgBHDQiEVtDb74DCPAIFN9AggBcB11W7hGPTsy9PZXR-SNOKf5nkE0
+Call log:
+  - navigating to ""https://www.ameristarbuilders.com/index.html?fbclid=IwAR2fRHgBHDQiEVtDb74DCPAIFN9AggBcB11W7hGPTsy9PZXR-SNOKf5nkE0"", waiting until ""domcontentloaded""
+"
+http://www.mtcustomhomes.com,BLOCKED,HTTP 403
+http://www.4genhomes.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.4genhomes.com/
+Call log:
+  - navigating to ""http://www.4genhomes.com/"", waiting until ""domcontentloaded""
+"
+http://www.hilinehomepro.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.hilinehomepro.com/
+Call log:
+  - navigating to ""http://www.hilinehomepro.com/"", waiting until ""domcontentloaded""
+"
+http://www.ScottsdaleCustomHomesAZ.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.scottsdalecustomhomesaz.com/
+Call log:
+  - navigating to ""http://www.scottsdalecustomhomesaz.com/"", waiting until ""domcontentloaded""
+"
+http://www.2BuildersINC.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.2buildersinc.com/
+Call log:
+  - navigating to ""http://www.2buildersinc.com/"", waiting until ""domcontentloaded""
+"
+https://www.hamptonroadspickupman.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""https://www.hamptonroadspickupman.com/"", waiting until ""domcontentloaded""
+"
+http://www.trinitycustombuilders.com,FAILED,HTTP 503
+https://www.canyoncreektexas.com,BLOCKED,HTTP 403
+https://smartlilybuilder.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://smartlilybuilder.com/
+Call log:
+  - navigating to ""https://smartlilybuilder.com/"", waiting until ""domcontentloaded""
+"
+http://www.stonecrestcustomhomes.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.stonecrestcustomhomes.com/"", waiting until ""domcontentloaded""
+"
+http://www.anyandallfabrication.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.anyandallfabrication.com/
+Call log:
+  - navigating to ""http://www.anyandallfabrication.com/"", waiting until ""domcontentloaded""
+"
+http://www.ratermanncustomhomes.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.ratermanncustomhomes.com/
+Call log:
+  - navigating to ""http://www.ratermanncustomhomes.com/"", waiting until ""domcontentloaded""
+"
+http://www.selectcustomhomestx.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at http://www.selectcustomhomestx.com/
+Call log:
+  - navigating to ""http://www.selectcustomhomestx.com/"", waiting until ""domcontentloaded""
+"
+http://www.viaubuilders.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.viaubuilders.com/
+Call log:
+  - navigating to ""http://www.viaubuilders.com/"", waiting until ""domcontentloaded""
+"
+http://www.bestaffordablecontractors.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.bestaffordablecontractors.com/
+Call log:
+  - navigating to ""http://www.bestaffordablecontractors.com/"", waiting until ""domcontentloaded""
+"
+https://stonecresthomesoh.com,FAILED,HTTP 404
+http://www.builtwrightcustomhomes.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.builtwrightcustomhomes.com/
+Call log:
+  - navigating to ""http://www.builtwrightcustomhomes.com/"", waiting until ""domcontentloaded""
+"
+https://integrityremodelingandcustomhomes.wordpress.com,BLOCKED,HTTP 403
+http://www.ggcustomhomes.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.ggcustomhomes.com/
+Call log:
+  - navigating to ""http://www.ggcustomhomes.com/"", waiting until ""domcontentloaded""
+"
+http://www.Switchgrasstinyhomes.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.switchgrasstinyhomes.com/
+Call log:
+  - navigating to ""http://www.switchgrasstinyhomes.com/"", waiting until ""domcontentloaded""
+"
+https://www.ezeconstructionllc.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ezeconstructionllc.net/
+Call log:
+  - navigating to ""https://www.ezeconstructionllc.net/"", waiting until ""domcontentloaded""
+"
+https://crowellbuilders.com,BLOCKED,HTTP 403
+http://wgroupcontractors.com/index.html,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://wgroupcontractors.com/index.html
+Call log:
+  - navigating to ""http://wgroupcontractors.com/index.html"", waiting until ""domcontentloaded""
+"
+https://www.ezacceptancebuilders.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.ezacceptancebuilders.com/
+Call log:
+  - navigating to ""https://www.ezacceptancebuilders.com/"", waiting until ""domcontentloaded""
+"
+http://arrowheadcustomhom.wixsite.com/arrowheadch,FAILED,HTTP 404
+https://www.jorysjunkremovalandhauling.com,FAILED,HTTP 404
+http://eastcoastheatingandairconditioning.com,FAILED,HTTP 404
+https://wigentexcavating.com,BLOCKED,HTTP 403
+http://www.truehomeac.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.truehomeac.com/
+Call log:
+  - navigating to ""http://www.truehomeac.com/"", waiting until ""domcontentloaded""
+"
+https://www.baredemolitiontx.com/home,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.baredemolitiontx.com/home
+Call log:
+  - navigating to ""https://www.baredemolitiontx.com/home"", waiting until ""domcontentloaded""
+"
+https://www.midatlanticasphalt.com,BLOCKED,HTTP 403
+https://rockeezengineering.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://rockeezengineering.com/
+Call log:
+  - navigating to ""https://rockeezengineering.com/"", waiting until ""domcontentloaded""
+"
+https://builderstouchinc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://builderstouchinc.com/
+Call log:
+  - navigating to ""https://builderstouchinc.com/"", waiting until ""domcontentloaded""
+"
+https://www.brothertonheatingandair.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.brothertonheatingandair.com/
+Call log:
+  - navigating to ""https://www.brothertonheatingandair.com/"", waiting until ""domcontentloaded""
+"
+https://kamefloorssystems.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://kamefloorssystems.com/
+Call log:
+  - navigating to ""https://kamefloorssystems.com/"", waiting until ""domcontentloaded""
+"
+http://www.adpave.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.adpave.com/
+Call log:
+  - navigating to ""http://www.adpave.com/"", waiting until ""domcontentloaded""
+"
+http://www.shellenbargercontracting.com,FAILED,HTTP 404
+https://www.mikeatkinsonexcavation.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.mikeatkinsonexcavation.com/
+Call log:
+  - navigating to ""https://www.mikeatkinsonexcavation.com/"", waiting until ""domcontentloaded""
+"
+https://www.mandmcleaningma.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.mandmcleaningma.com/
+Call log:
+  - navigating to ""https://www.mandmcleaningma.com/"", waiting until ""domcontentloaded""
+"
+https://www.interiorrenovationsanddesign.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.interiorrenovationsanddesign.com/
+Call log:
+  - navigating to ""https://www.interiorrenovationsanddesign.com/"", waiting until ""domcontentloaded""
+"
+http://www.rkrincorporated.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.rkrincorporated.com/
+Call log:
+  - navigating to ""http://www.rkrincorporated.com/"", waiting until ""domcontentloaded""
+"
+https://services.tryhomeshield.com/nashvillehomeimprovement,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://services.tryhomeshield.com/nashvillehomeimprovement
+Call log:
+  - navigating to ""https://services.tryhomeshield.com/nashvillehomeimprovement"", waiting until ""domcontentloaded""
+"
+http://dickensconstruction.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://dickensconstruction.com/
+Call log:
+  - navigating to ""http://dickensconstruction.com/"", waiting until ""domcontentloaded""
+"
+https://mitchellcustomconcepts.com,BLOCKED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://mitchellcustomconcepts.com/
+Call log:
+  - navigating to ""https://mitchellcustomconcepts.com/"", waiting until ""domcontentloaded""
+"
+http://www.jbcustomremodeling.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.jbcustomremodeling.com/
+Call log:
+  - navigating to ""http://www.jbcustomremodeling.com/"", waiting until ""domcontentloaded""
+"
+http://onlinemeridianhomes.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://onlinemeridianhomes.com/
+Call log:
+  - navigating to ""http://onlinemeridianhomes.com/"", waiting until ""domcontentloaded""
+"
+http://www.staturecustomhomes.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.staturecustomhomes.com/
+Call log:
+  - navigating to ""http://www.staturecustomhomes.com/"", waiting until ""domcontentloaded""
+"
+http://www.caretexcustombuilders.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.caretexcustombuilders.com/
+Call log:
+  - navigating to ""http://www.caretexcustombuilders.com/"", waiting until ""domcontentloaded""
+"
+http://www.potomacvalleybuilders.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.potomacvalleybuilders.com/
+Call log:
+  - navigating to ""http://www.potomacvalleybuilders.com/"", waiting until ""domcontentloaded""
+"
+http://www.pinecountrybuilders.com,FAILED,HTTP 500
+http://www.structuraltechnologyhomerepairs.com,FAILED,HTTP 404
+https://alamocustomrenovations.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://alamocustomrenovations.com/
+Call log:
+  - navigating to ""https://alamocustomrenovations.com/"", waiting until ""domcontentloaded""
+"
+https://conciergeroofandremodeling.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://conciergeroofandremodeling.com/
+Call log:
+  - navigating to ""https://conciergeroofandremodeling.com/"", waiting until ""domcontentloaded""
+"
+http://www.icbhi.com,FAILED,HTTP 404
+https://icfcustomhomes.houzz.com,FAILED,HTTP 404
+http://www.a-specialty.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.a-specialty.com/
+Call log:
+  - navigating to ""http://www.a-specialty.com/"", waiting until ""domcontentloaded""
+"
+http://www.rjdailey.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.rjdailey.com/
+Call log:
+  - navigating to ""http://www.rjdailey.com/"", waiting until ""domcontentloaded""
+"
+http://www.fkconstructionservices.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.fkconstructionservices.com/
+Call log:
+  - navigating to ""http://www.fkconstructionservices.com/"", waiting until ""domcontentloaded""
+"
+http://www.mayshomebuilder.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.mayshomebuilder.com/
+Call log:
+  - navigating to ""http://www.mayshomebuilder.com/"", waiting until ""domcontentloaded""
+"
+http://www.hekstrabuilders.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.hekstrabuilders.com/
+Call log:
+  - navigating to ""https://www.hekstrabuilders.com/"", waiting until ""domcontentloaded""
+"
+http://www.boyerhomesflorida.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.boyerhomesflorida.com/
+Call log:
+  - navigating to ""http://www.boyerhomesflorida.com/"", waiting until ""domcontentloaded""
+"
+http://www.davishomes.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.davishomes.com/
+Call log:
+  - navigating to ""http://www.davishomes.com/"", waiting until ""domcontentloaded""
+"
+http://www.dukehomes.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.dukehomes.com/
+Call log:
+  - navigating to ""http://www.dukehomes.com/"", waiting until ""domcontentloaded""
+"
+http://www.groundbreakersservices.com,FAILED,HTTP 404
+https://thefalconsite.org,BLOCKED,HTTP 403
+https://www.modernupgradenj.com,BLOCKED,HTTP 403
+http://gottrashguy.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://gottrashguy.com/
+Call log:
+  - navigating to ""http://gottrashguy.com/"", waiting until ""domcontentloaded""
+"
+https://www.akinsexcavating.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.akinsexcavating.com/
+Call log:
+  - navigating to ""https://www.akinsexcavating.com/"", waiting until ""domcontentloaded""
+"
+http://aircareheatingandairconditioning.com,BLOCKED,HTTP 403
+https://www.alittlehelptruckhelping.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.alittlehelptruckhelping.com/
+Call log:
+  - navigating to ""https://www.alittlehelptruckhelping.com/"", waiting until ""domcontentloaded""
+"
+http://ironeagleexcavation.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://ironeagleexcavation.com/
+Call log:
+  - navigating to ""http://ironeagleexcavation.com/"", waiting until ""domcontentloaded""
+"
+https://www.allianceconstructionsa.com,FAILED,HTTP 404
+https://dreamersohio.com,BLOCKED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://dreamersohio.com/
+Call log:
+  - navigating to ""https://dreamersohio.com/"", waiting until ""domcontentloaded""
+"
+http://www.sigcox.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.sigcox.com/
+Call log:
+  - navigating to ""http://www.sigcox.com/"", waiting until ""domcontentloaded""
+"
+http://www.carolinamountaingrading.com,BLOCKED,HTTP 403
+http://www.coconstructionanddemo.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.coconstructionanddemo.com/
+Call log:
+  - navigating to ""http://www.coconstructionanddemo.com/"", waiting until ""domcontentloaded""
+"
+http://www.activemember.com/rescueheatair,FAILED,HTTP 404
+http://www.tnbconcrete.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.tnbconcrete.com/
+Call log:
+  - navigating to ""http://www.tnbconcrete.com/"", waiting until ""domcontentloaded""
+"
+http://www.glcustomhomeimprovements.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.glcustomhomeimprovements.com/
+Call log:
+  - navigating to ""http://www.glcustomhomeimprovements.com/"", waiting until ""domcontentloaded""
+"
+http://gracelanebuilders.com,FAILED,HTTP 409
+https://techmasterconstruction1.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://techmasterconstruction1.com/
+Call log:
+  - navigating to ""https://techmasterconstruction1.com/"", waiting until ""domcontentloaded""
+"
+http://www.custombldrs.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.custombldrs.com/
+Call log:
+  - navigating to ""http://www.custombldrs.com/"", waiting until ""domcontentloaded""
+"
+http://dwdrenovation.com,FAILED,HTTP 520
+http://www.precisionconstruction.com,BLOCKED,HTTP 403
+http://www.tdhbuilders.com/index.html,FAILED,HTTP 400
+http://www.hartescontracting.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.hartescontracting.com/
+Call log:
+  - navigating to ""http://www.hartescontracting.com/"", waiting until ""domcontentloaded""
+"
+http://www.comprehensiveconstruction.com,FAILED,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at http://www.comprehensiveconstruction.com/
+Call log:
+  - navigating to ""http://www.comprehensiveconstruction.com/"", waiting until ""domcontentloaded""
+"
+https://herconstructioncompanytx.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://herconstructioncompanytx.com/
+Call log:
+  - navigating to ""https://herconstructioncompanytx.com/"", waiting until ""domcontentloaded""
+"
+http://www.libertyurbandevelopment.com,FAILED,"Page.goto: net::ERR_CONNECTION_RESET at https://www.libertyurbandevelopment.com/
+Call log:
+  - navigating to ""https://www.libertyurbandevelopment.com/"", waiting until ""domcontentloaded""
+"
+http://www.mb3constructionllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.mb3constructionllc.com/
+Call log:
+  - navigating to ""http://www.mb3constructionllc.com/"", waiting until ""domcontentloaded""
+"
+http://Dynamichomestexas.com,BLOCKED,HTTP 403
+http://nortexbuilderstx.com,FAILED,HTTP 404
+https://www.katbuildersinc.com,FAILED,HTTP 404
+http://www.lipkahomes.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""https://www.lipkahomes.com/"", waiting until ""domcontentloaded""
+"
+https://www.floridianconstruction.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.floridianconstruction.com/
+Call log:
+  - navigating to ""https://www.floridianconstruction.com/"", waiting until ""domcontentloaded""
+"
+https://www.hunnheritage.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.hunnheritage.com/
+Call log:
+  - navigating to ""https://www.hunnheritage.com/"", waiting until ""domcontentloaded""
+"
+http://www.coriashomes.com,FAILED,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at http://www.coriashomes.com/
+Call log:
+  - navigating to ""http://www.coriashomes.com/"", waiting until ""domcontentloaded""
+"
+http://www.stonecliffhomes.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.stonecliffhomes.com/
+Call log:
+  - navigating to ""https://www.stonecliffhomes.com/"", waiting until ""domcontentloaded""
+"
+https://vettrainohomes.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""https://vettrainohomes.com/"", waiting until ""domcontentloaded""
+"
+https://www.bowardexc-kirkdemo.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.bowardexc-kirkdemo.com/
+Call log:
+  - navigating to ""https://www.bowardexc-kirkdemo.com/"", waiting until ""domcontentloaded""
+"
+http://mccorkleexcavating.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://mccorkleexcavating.com/
+Call log:
+  - navigating to ""http://mccorkleexcavating.com/"", waiting until ""domcontentloaded""
+"
+https://excavatingcontractorlakegenevawi.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://excavatingcontractorlakegenevawi.com/
+Call log:
+  - navigating to ""https://excavatingcontractorlakegenevawi.com/"", waiting until ""domcontentloaded""
+"
+https://rrrockandstone.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://rrrockandstone.com/
+Call log:
+  - navigating to ""https://rrrockandstone.com/"", waiting until ""domcontentloaded""
+"
+http://www.prtlandscaping.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.prtlandscaping.com/
+Call log:
+  - navigating to ""http://www.prtlandscaping.com/"", waiting until ""domcontentloaded""
+"
+http://www.sskeller.com,BLOCKED,HTTP 403
+http://www.purrazzelloandson.com,FAILED,HTTP 503
+https://www.1homefixer.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.1homefixer.com/
+Call log:
+  - navigating to ""https://www.1homefixer.com/"", waiting until ""domcontentloaded""
+"
+https://jdog-junk-removal-hauling-debris-removal-service.business.site,FAILED,HTTP 404
+https://blakeconstructionnc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://blakeconstructionnc.com/
+Call log:
+  - navigating to ""https://blakeconstructionnc.com/"", waiting until ""domcontentloaded""
+"
+https://www.cmcustomsidingllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.cmcustomsidingllc.com/
+Call log:
+  - navigating to ""https://www.cmcustomsidingllc.com/"", waiting until ""domcontentloaded""
+"
+http://www.molddoctors.net,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.molddoctors.net/
+Call log:
+  - navigating to ""http://www.molddoctors.net/"", waiting until ""domcontentloaded""
+"
+http://dnkworksasbestos.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://dnkworksasbestos.com/
+Call log:
+  - navigating to ""http://dnkworksasbestos.com/"", waiting until ""domcontentloaded""
+"
+https://hlundergroundllc.com/?fbclid=iwar1e7diro5zkh-nei589wg326bxf2cgzynktv4_7nkrodqirmcpctj904ha,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://hlundergroundllc.com/?fbclid=iwar1e7diro5zkh-nei589wg326bxf2cgzynktv4_7nkrodqirmcpctj904ha
+Call log:
+  - navigating to ""https://hlundergroundllc.com/?fbclid=iwar1e7diro5zkh-nei589wg326bxf2cgzynktv4_7nkrodqirmcpctj904ha"", waiting until ""domcontentloaded""
+"
+https://andy-handy-maintenance-concrete-llc.business.site,FAILED,HTTP 404
+http://www.dawkinsdevelopmentgroup.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.dawkinsdevelopmentgroup.com/
+Call log:
+  - navigating to ""http://www.dawkinsdevelopmentgroup.com/"", waiting until ""domcontentloaded""
+"
+http://www.jrblakecustombuilder.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.jrblakecustombuilder.com/
+Call log:
+  - navigating to ""http://www.jrblakecustombuilder.com/"", waiting until ""domcontentloaded""
+"
+https://www.bullochdirtworks.com,FAILED,HTTP 404
+http://www.deseradahomes.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.deseradahomes.com/
+Call log:
+  - navigating to ""http://www.deseradahomes.com/"", waiting until ""domcontentloaded""
+"
+http://www.4gconline.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.4gconline.com/
+Call log:
+  - navigating to ""http://www.4gconline.com/"", waiting until ""domcontentloaded""
+"
+http://www.mannesbuilders.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.mannesbuilders.com/
+Call log:
+  - navigating to ""http://www.mannesbuilders.com/"", waiting until ""domcontentloaded""
+"
+http://accenturebuildingpartners.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://accenturebuildingpartners.com/
+Call log:
+  - navigating to ""http://accenturebuildingpartners.com/"", waiting until ""domcontentloaded""
+"
+https://www.orlandbuilders.com,BLOCKED,HTTP 403
+http://www.mdmasterbuilder.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.mdmasterbuilder.com/
+Call log:
+  - navigating to ""http://www.mdmasterbuilder.com/"", waiting until ""domcontentloaded""
+"
+http://www.strackhomes.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.strackhomes.com/
+Call log:
+  - navigating to ""http://www.strackhomes.com/"", waiting until ""domcontentloaded""
+"
+http://www.chandlerhomerepairs.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.chandlerhomerepairs.com/
+Call log:
+  - navigating to ""http://www.chandlerhomerepairs.com/"", waiting until ""domcontentloaded""
+"
+http://www.rjdambrobuilders.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.rjdambrobuilders.com/
+Call log:
+  - navigating to ""http://www.rjdambrobuilders.com/"", waiting until ""domcontentloaded""
+"
+http://www.montpeliergrading.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.montpeliergrading.com/
+Call log:
+  - navigating to ""http://www.montpeliergrading.com/"", waiting until ""domcontentloaded""
+"
+http://armstrongmasterbuilders.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://armstrongmasterbuilders.com/
+Call log:
+  - navigating to ""http://armstrongmasterbuilders.com/"", waiting until ""domcontentloaded""
+"
+http://www.CaiatiCustomsInc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.caiaticustomsinc.com/
+Call log:
+  - navigating to ""http://www.caiaticustomsinc.com/"", waiting until ""domcontentloaded""
+"
+http://southerncaliforniabuilding.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://southerncaliforniabuilding.com/"", waiting until ""domcontentloaded""
+"
+http://www.mdaigleandsons.com,BLOCKED,HTTP 403
+https://futuristic-building-construction-company.business.site,FAILED,HTTP 404
+https://austinbcb.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://austinbcb.com/
+Call log:
+  - navigating to ""https://austinbcb.com/"", waiting until ""domcontentloaded""
+"
+https://www.baker-contracting.com,FAILED,HTTP 503
+https://atxpropertyservices.com,BLOCKED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://atxpropertyservices.com/
+Call log:
+  - navigating to ""https://atxpropertyservices.com/"", waiting until ""domcontentloaded""
+"
+http://www.malvaizbuilders.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.malvaizbuilders.com/
+Call log:
+  - navigating to ""https://www.malvaizbuilders.com/"", waiting until ""domcontentloaded""
+"
+https://s-and-s.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""https://s-and-s.com/"", waiting until ""domcontentloaded""
+"
+https://www.originhomes.co,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""https://www.originhomes.co/"", waiting until ""domcontentloaded""
+"
+http://www.precisionde.com,FAILED,HTTP 404
+https://allegianceheatingandairsd.com,BLOCKED,HTTP 403
+https://www.harlanheating.com,FAILED,HTTP 404
+http://www.arizonarestorationspecialists.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.arizonarestorationspecialists.com/
+Call log:
+  - navigating to ""http://www.arizonarestorationspecialists.com/"", waiting until ""domcontentloaded""
+"
+http://www.rstconstructioninc.com,FAILED,HTTP 404
+https://www.vakconstructionllc.com,FAILED,HTTP 404
+http://www.andreggcontracting.com,FAILED,HTTP 404
+http://www.mcheatingcooling.com,FAILED,HTTP 404
+https://natesdemolitionandcleanoutservice.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://natesdemolitionandcleanoutservice.com/
+Call log:
+  - navigating to ""https://natesdemolitionandcleanoutservice.com/"", waiting until ""domcontentloaded""
+"
+http://www.caribbeanair.org,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.caribbeanair.org/
+Call log:
+  - navigating to ""http://www.caribbeanair.org/"", waiting until ""domcontentloaded""
+"
+http://www.cincinnatidemolition.com,BLOCKED,HTTP 403
+https://www.fields-plumbing-heating.com/fields-plumbing-and-heating-southern-pines-nc,FAILED,HTTP 404
+http://www.jensensexcavating.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.jensensexcavating.com/
+Call log:
+  - navigating to ""http://www.jensensexcavating.com/"", waiting until ""domcontentloaded""
+"
+https://www.activemember.com/wall2wallconstruction,FAILED,HTTP 404
+https://www.activemember.com/1callheatair,FAILED,HTTP 404
+http://jasonpaul7317.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://jasonpaul7317.com/
+Call log:
+  - navigating to ""http://jasonpaul7317.com/"", waiting until ""domcontentloaded""
+"
+https://ballardconstructionservices.com,BLOCKED,"Page.goto: net::ERR_CONNECTION_RESET at https://ballardconstructionservices.com/
+Call log:
+  - navigating to ""https://ballardconstructionservices.com/"", waiting until ""domcontentloaded""
+"
+http://www.fredohomes.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.fredohomes.com/
+Call log:
+  - navigating to ""http://www.fredohomes.com/"", waiting until ""domcontentloaded""
+"
+http://www.nordiccustom.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.nordiccustom.com/
+Call log:
+  - navigating to ""http://www.nordiccustom.com/"", waiting until ""domcontentloaded""
+"
+http://www.chinchillahomellc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.chinchillahomellc.com/
+Call log:
+  - navigating to ""http://www.chinchillahomellc.com/"", waiting until ""domcontentloaded""
+"
+http://www.agbconst.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.agbconst.com/
+Call log:
+  - navigating to ""http://www.agbconst.com/"", waiting until ""domcontentloaded""
+"
+http://rodriguezgeneralcontractinginc.com,BLOCKED,HTTP 401
+http://www.blblock.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.blblock.com/
+Call log:
+  - navigating to ""https://www.blblock.com/"", waiting until ""domcontentloaded""
+"
+https://www.benstransportationservices.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.benstransportationservices.com/
+Call log:
+  - navigating to ""https://www.benstransportationservices.com/"", waiting until ""domcontentloaded""
+"
+https://caroncustomhomes.com,BLOCKED,HTTP 403
+http://www.stottlemyerhomes.com,BLOCKED,HTTP 403
+https://vtconstructioninc.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://vtconstructioninc.com/
+Call log:
+  - navigating to ""https://vtconstructioninc.com/"", waiting until ""domcontentloaded""
+"
+https://www.tapiacr.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tapiacr.com/
+Call log:
+  - navigating to ""https://www.tapiacr.com/"", waiting until ""domcontentloaded""
+"
+http://www.bransoncustomworks.com,FAILED,HTTP 502
+http://michigan.3ghomeexteriors.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://michigan.3ghomeexteriors.com/
+Call log:
+  - navigating to ""http://michigan.3ghomeexteriors.com/"", waiting until ""domcontentloaded""
+"
+https://www.ctscustomhomes.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ctscustomhomes.com/
+Call log:
+  - navigating to ""https://www.ctscustomhomes.com/"", waiting until ""domcontentloaded""
+"
+https://www.coregonbuildingcompany.com,FAILED,"Page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at https://www.coregonbuildingcompany.com/
+Call log:
+  - navigating to ""https://www.coregonbuildingcompany.com/"", waiting until ""domcontentloaded""
+"
+http://www.huntingtoncustomhomes.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.huntingtoncustomhomes.com/"", waiting until ""domcontentloaded""
+"
+http://www.mfbmechanicalcorp.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.mfbmechanicalcorp.com/
+Call log:
+  - navigating to ""http://www.mfbmechanicalcorp.com/"", waiting until ""domcontentloaded""
+"
+https://rmt-excavating-inc.webnode.page,FAILED,HTTP 404
+http://www.climatechmechanical.com,BLOCKED,HTTP 403
+https://www.cmebuilditright.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.cmebuilditright.com/
+Call log:
+  - navigating to ""https://www.cmebuilditright.com/"", waiting until ""domcontentloaded""
+"
+http://www.palmerconstruction.com,FAILED,HTTP 404
+http://www.vanopdorptruckingexcavating.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.vanopdorptruckingexcavating.com/
+Call log:
+  - navigating to ""http://www.vanopdorptruckingexcavating.com/"", waiting until ""domcontentloaded""
+"
+http://www.ayronbrooks.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.ayronbrooks.com/
+Call log:
+  - navigating to ""http://www.ayronbrooks.com/"", waiting until ""domcontentloaded""
+"
+http://www.marksvalleygrading.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.marksvalleygrading.com/
+Call log:
+  - navigating to ""http://www.marksvalleygrading.com/"", waiting until ""domcontentloaded""
+"
+http://northernedgeequipmentsrvcs.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://northernedgeequipmentsrvcs.com/
+Call log:
+  - navigating to ""http://northernedgeequipmentsrvcs.com/"", waiting until ""domcontentloaded""
+"
+http://www.mysademo.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.mysademo.com/
+Call log:
+  - navigating to ""http://www.mysademo.com/"", waiting until ""domcontentloaded""
+"
+http://www.aaaadvantagecarting.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.aaaadvantagecarting.com/
+Call log:
+  - navigating to ""http://www.aaaadvantagecarting.com/"", waiting until ""domcontentloaded""
+"
+http://three16constructionservices.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://three16constructionservices.com/
+Call log:
+  - navigating to ""http://three16constructionservices.com/"", waiting until ""domcontentloaded""
+"
+http://www.totalcomfortservice.com,FAILED,HTTP 404
+http://www.mdillonconstruction.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.mdillonconstruction.com/
+Call log:
+  - navigating to ""http://www.mdillonconstruction.com/"", waiting until ""domcontentloaded""
+"
+https://dan-powers-construction-demolition-contractor.business.site,FAILED,HTTP 404
+https://ecosenvironmental.com,BLOCKED,HTTP 403
+http://lelandcorporation.com,FAILED,HTTP 500
+http://www.lakotabuild.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.lakotabuild.com/
+Call log:
+  - navigating to ""http://www.lakotabuild.com/"", waiting until ""domcontentloaded""
+"
+http://rwgconstructionllc.com,FAILED,HTTP 404
+https://quantumcnstrt.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://quantumcnstrt.com/
+Call log:
+  - navigating to ""https://quantumcnstrt.com/"", waiting until ""domcontentloaded""
+"
+http://elitecustombuilder.com,FAILED,HTTP 404
+http://www.tr-construction.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.tr-construction.com/
+Call log:
+  - navigating to ""http://www.tr-construction.com/"", waiting until ""domcontentloaded""
+"
+http://www.alanisdevcorp.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.alanisdevcorp.com/
+Call log:
+  - navigating to ""http://www.alanisdevcorp.com/"", waiting until ""domcontentloaded""
+"
+http://www.fabiangarciacustomhomesllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.fabiangarciacustomhomesllc.com/
+Call log:
+  - navigating to ""http://www.fabiangarciacustomhomesllc.com/"", waiting until ""domcontentloaded""
+"
+https://www.allenconstructioncapital.com,BLOCKED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.allenconstructioncapital.com/
+Call log:
+  - navigating to ""https://www.allenconstructioncapital.com/"", waiting until ""domcontentloaded""
+"
+http://www.heritagecustomhomesinc.com,FAILED,HTTP 404
+http://www.speichcustomhomes.com,FAILED,HTTP 404
+http://www.buildwithkc.com,BLOCKED,HTTP 403
+http://www.AshtonCustomHomesInc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.ashtoncustomhomesinc.com/
+Call log:
+  - navigating to ""http://www.ashtoncustomhomesinc.com/"", waiting until ""domcontentloaded""
+"
+http://TexasSecurityBuilders.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://texassecuritybuilders.com/
+Call log:
+  - navigating to ""http://texassecuritybuilders.com/"", waiting until ""domcontentloaded""
+"
+http://www.FredEvansCustomHomes.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.fredevanscustomhomes.com/
+Call log:
+  - navigating to ""http://www.fredevanscustomhomes.com/"", waiting until ""domcontentloaded""
+"
+http://www.txspectrumcontracting.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.txspectrumcontracting.com/
+Call log:
+  - navigating to ""http://www.txspectrumcontracting.com/"", waiting until ""domcontentloaded""
+"
+http://www.diamonddeckstx.com,BLOCKED,HTTP 403
+https://www.decor-builders.com,BLOCKED,HTTP 403
+http://www.mscommercialinc.com,FAILED,"Page.goto: net::ERR_CONNECTION_RESET at http://www.mscommercialinc.com/
+Call log:
+  - navigating to ""http://www.mscommercialinc.com/"", waiting until ""domcontentloaded""
+"
+http://www.bearemodeling.com,BLOCKED,HTTP 403
+http://www.usadreambuilders.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.usadreambuilders.com/
+Call log:
+  - navigating to ""http://www.usadreambuilders.com/"", waiting until ""domcontentloaded""
+"
+http://www.thesterlinghomes.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.thesterlinghomes.com/
+Call log:
+  - navigating to ""http://www.thesterlinghomes.com/"", waiting until ""domcontentloaded""
+"
+http://straight-ace-restoration-and-contracting.business.site,FAILED,HTTP 404
+https://neagleluxuryhomes.com,BLOCKED,HTTP 403
+http://www.trademarkhomesinc.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.trademarkhomesinc.com/"", waiting until ""domcontentloaded""
+"
+http://www.smyoung.net,FAILED,HTTP 404
+https://www.allterraindemo.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.allterraindemo.com/
+Call log:
+  - navigating to ""https://www.allterraindemo.com/"", waiting until ""domcontentloaded""
+"
+http://wisdomconstructiontx.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://wisdomconstructiontx.com/
+Call log:
+  - navigating to ""http://wisdomconstructiontx.com/"", waiting until ""domcontentloaded""
+"
+https://www.makeoverconstruction.com,BLOCKED,HTTP 403
+http://www.atlarepcg.com,FAILED,HTTP 503
+https://antiquebeamsandboards.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://antiquebeamsandboards.com/
+Call log:
+  - navigating to ""https://antiquebeamsandboards.com/"", waiting until ""domcontentloaded""
+"
+https://www.kystronghaul.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.kystronghaul.com/
+Call log:
+  - navigating to ""https://www.kystronghaul.com/"", waiting until ""domcontentloaded""
+"
+https://allin1contractingdotnet.wordpress.com,BLOCKED,HTTP 403
+http://www.hardingair.com,BLOCKED,HTTP 403
+https://www.deksiconstruction.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.deksiconstruction.com/
+Call log:
+  - navigating to ""https://www.deksiconstruction.com/"", waiting until ""domcontentloaded""
+"
+http://www.umclt.com,BLOCKED,HTTP 401
+https://www.eedenvironmental.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.eedenvironmental.com/
+Call log:
+  - navigating to ""https://www.eedenvironmental.com/"", waiting until ""domcontentloaded""
+"
+http://www.kmcmass.com,BLOCKED,HTTP 403
+https://turneyexcavating.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://turneyexcavating.com/
+Call log:
+  - navigating to ""https://turneyexcavating.com/"", waiting until ""domcontentloaded""
+"
+http://www.shackletonbuilders.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.shackletonbuilders.com/
+Call log:
+  - navigating to ""http://www.shackletonbuilders.com/"", waiting until ""domcontentloaded""
+"
+https://www.jnrcustomhomes.com,BLOCKED,HTTP 403
+http://www.peterschlubachbuilders.com,FAILED,HTTP 404
+https://davidsmithdb.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://davidsmithdb.com/
+Call log:
+  - navigating to ""https://davidsmithdb.com/"", waiting until ""domcontentloaded""
+"
+http://www.gemscustomhomebuilder.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.gemscustomhomebuilder.com/
+Call log:
+  - navigating to ""http://www.gemscustomhomebuilder.com/"", waiting until ""domcontentloaded""
+"
+http://www.villalpandohomes.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.villalpandohomes.com/
+Call log:
+  - navigating to ""http://www.villalpandohomes.com/"", waiting until ""domcontentloaded""
+"
+http://www.ronnycarrollhomes.com,FAILED,"Page.goto: net::ERR_CONNECTION_RESET at https://www.ronnycarrollhomes.com/
+Call log:
+  - navigating to ""https://www.ronnycarrollhomes.com/"", waiting until ""domcontentloaded""
+"
+http://dbuhomes.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://dbuhomes.com/
+Call log:
+  - navigating to ""http://dbuhomes.com/"", waiting until ""domcontentloaded""
+"
+http://www.aaa-mrlevelallfoundations.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.aaa-mrlevelallfoundations.com/
+Call log:
+  - navigating to ""http://www.aaa-mrlevelallfoundations.com/"", waiting until ""domcontentloaded""
+"
+https://birchandbeam.co,BLOCKED,HTTP 403
+https://www.greatertexasremodelingandcustomhomes.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.greatertexasremodelingandcustomhomes.com/
+Call log:
+  - navigating to ""https://www.greatertexasremodelingandcustomhomes.com/"", waiting until ""domcontentloaded""
+"
+http://www.rchristianbuilders.com,FAILED,"Page.goto: net::ERR_CONNECTION_RESET at https://www.rchristianbuilders.com/
+Call log:
+  - navigating to ""https://www.rchristianbuilders.com/"", waiting until ""domcontentloaded""
+"
+http://www.vbfmc.com,FAILED,HTTP 404
+https://surcustomhomes.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://surcustomhomes.com/
+Call log:
+  - navigating to ""https://surcustomhomes.com/"", waiting until ""domcontentloaded""
+"
+https://truewestgc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://truewestgc.com/
+Call log:
+  - navigating to ""https://truewestgc.com/"", waiting until ""domcontentloaded""
+"
+http://www.provincialcustomhomes.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.provincialcustomhomes.com/
+Call log:
+  - navigating to ""http://www.provincialcustomhomes.com/"", waiting until ""domcontentloaded""
+"
+https://www.trinity-homes.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.trinity-homes.com/
+Call log:
+  - navigating to ""https://www.trinity-homes.com/"", waiting until ""domcontentloaded""
+"
+http://www.luciadesigns.com/?fbclid=IwAR3s0pujcDWgjtmuJP51ppkLKjAjo7g57i12A1bPtYB5Eag5Ithe5MhllwA,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.luciadesigns.com/?fbclid=IwAR3s0pujcDWgjtmuJP51ppkLKjAjo7g57i12A1bPtYB5Eag5Ithe5MhllwA
+Call log:
+  - navigating to ""http://www.luciadesigns.com/?fbclid=IwAR3s0pujcDWgjtmuJP51ppkLKjAjo7g57i12A1bPtYB5Eag5Ithe5MhllwA"", waiting until ""domcontentloaded""
+"
+http://www.reyhomes.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.reyhomes.com/
+Call log:
+  - navigating to ""http://www.reyhomes.com/"", waiting until ""domcontentloaded""
+"
+http://www.orlandocustomhomebuilders.net,BLOCKED,HTTP 403
+http://parsetichcustomhomes.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://parsetichcustomhomes.com/
+Call log:
+  - navigating to ""http://parsetichcustomhomes.com/"", waiting until ""domcontentloaded""
+"
+http://www.start2finishconst.com,FAILED,HTTP 404
+https://austin-express-contracting.business.site,FAILED,HTTP 404
+http://kdegraydemo.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://kdegraydemo.com/
+Call log:
+  - navigating to ""http://kdegraydemo.com/"", waiting until ""domcontentloaded""
+"
+http://www.allphazecontracting.com,FAILED,HTTP 404
+http://www.bensdemolition.com,FAILED,HTTP 404
+http://www.hosannabc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.hosannabc.com/
+Call log:
+  - navigating to ""http://www.hosannabc.com/"", waiting until ""domcontentloaded""
+"
+http://buildwithprecise.com,FAILED,HTTP 404
+https://bbuenvironmental.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://bbuenvironmental.com/
+Call log:
+  - navigating to ""https://bbuenvironmental.com/"", waiting until ""domcontentloaded""
+"
+http://www.adrestorationworks.com,FAILED,HTTP 404
+https://denver-demoliton.business.site,FAILED,HTTP 404
+https://www.murfreesborohvacservices.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.murfreesborohvacservices.com/
+Call log:
+  - navigating to ""https://www.murfreesborohvacservices.com/"", waiting until ""domcontentloaded""
+"
+http://royalandsons.business.site,FAILED,HTTP 404
+http://www.Kady.Builders,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.kady.builders/
+Call log:
+  - navigating to ""http://www.kady.builders/"", waiting until ""domcontentloaded""
+"
+https://bs2construction.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://bs2construction.com/
+Call log:
+  - navigating to ""https://bs2construction.com/"", waiting until ""domcontentloaded""
+"
+http://www.a-1patioexperts.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.a-1patioexperts.com/
+Call log:
+  - navigating to ""http://www.a-1patioexperts.com/"", waiting until ""domcontentloaded""
+"
+http://www.izanconstruccion.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.izanconstruccion.com/
+Call log:
+  - navigating to ""http://www.izanconstruccion.com/"", waiting until ""domcontentloaded""
+"
+http://www.nagelcorp.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.nagelcorp.com/
+Call log:
+  - navigating to ""http://www.nagelcorp.com/"", waiting until ""domcontentloaded""
+"
+http://www.krcustombuilders.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.krcustombuilders.com/
+Call log:
+  - navigating to ""http://www.krcustombuilders.com/"", waiting until ""domcontentloaded""
+"
+http://under-construction-general-contractors-llc.business.site,FAILED,HTTP 404
+http://www.shepardcontractingllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.shepardcontractingllc.com/
+Call log:
+  - navigating to ""http://www.shepardcontractingllc.com/"", waiting until ""domcontentloaded""
+"
+http://groatbrothersinc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://groatbrothersinc.com/
+Call log:
+  - navigating to ""http://groatbrothersinc.com/"", waiting until ""domcontentloaded""
+"
+https://www.2dimensiondesign.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.2dimensiondesign.com/
+Call log:
+  - navigating to ""https://www.2dimensiondesign.com/"", waiting until ""domcontentloaded""
+"
+http://www.brandhvac.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.brandhvac.com/"", waiting until ""domcontentloaded""
+"
+http://www.homecousa.com,FAILED,"Page.goto: net::ERR_CONNECTION_RESET at https://www.homecousa.com/
+Call log:
+  - navigating to ""https://www.homecousa.com/"", waiting until ""domcontentloaded""
+"
+http://www.salcedohomes.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.salcedohomes.com/
+Call log:
+  - navigating to ""http://www.salcedohomes.com/"", waiting until ""domcontentloaded""
+"
+https://akcustomhomestx.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://akcustomhomestx.com/
+Call log:
+  - navigating to ""https://akcustomhomestx.com/"", waiting until ""domcontentloaded""
+"
+https://clrcustomhomes.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://clrcustomhomes.com/
+Call log:
+  - navigating to ""https://clrcustomhomes.com/"", waiting until ""domcontentloaded""
+"
+http://www.suncalbuilders.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.suncalbuilders.net/
+Call log:
+  - navigating to ""http://www.suncalbuilders.net/"", waiting until ""domcontentloaded""
+"
+http://www.connorbrothers.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.connorbrothers.com/
+Call log:
+  - navigating to ""http://www.connorbrothers.com/"", waiting until ""domcontentloaded""
+"
+http://Containerhomesusa.Com,FAILED,HTTP 409
+http://www.jensencustomhomes.com,BLOCKED,HTTP 403
+http://FlCustomHomeBuilders.com,FAILED,HTTP 404
+http://www.baylifebuilding.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.baylifebuilding.com/
+Call log:
+  - navigating to ""http://www.baylifebuilding.com/"", waiting until ""domcontentloaded""
+"
+https://fortitudeconstructionindy.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://fortitudeconstructionindy.com/
+Call log:
+  - navigating to ""https://fortitudeconstructionindy.com/"", waiting until ""domcontentloaded""
+"
+http://foremostrestoration.com,FAILED,"Page.goto: net::ERR_CONNECTION_RESET at https://foremostrestoration.com/
+Call log:
+  - navigating to ""https://foremostrestoration.com/"", waiting until ""domcontentloaded""
+"
+https://www.frazierhomebuilders.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.frazierhomebuilders.com/
+Call log:
+  - navigating to ""https://www.frazierhomebuilders.com/"", waiting until ""domcontentloaded""
+"
+http://www.cfranklinhomes.com,FAILED,HTTP 404
+http://www.wmbBuilders.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.wmbbuilders.com/
+Call log:
+  - navigating to ""http://www.wmbbuilders.com/"", waiting until ""domcontentloaded""
+"
+http://www.noblehandymanservices.com,FAILED,HTTP 409
+http://www.gibraltarcustombuilders.com,FAILED,HTTP 500
+https://ecuagcarpentryandconstructioninc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://ecuagcarpentryandconstructioninc.com/
+Call log:
+  - navigating to ""https://ecuagcarpentryandconstructioninc.com/"", waiting until ""domcontentloaded""
+"
+https://homeflock.com/contractor/10089448,BLOCKED,HTTP 403
+https://www.ritewayjunkremoval.com,FAILED,HTTP 404
+https://www.integrityclearingtx.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.integrityclearingtx.com/
+Call log:
+  - navigating to ""https://www.integrityclearingtx.com/"", waiting until ""domcontentloaded""
+"
+http://breccaconstruction.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://breccaconstruction.com/
+Call log:
+  - navigating to ""http://breccaconstruction.com/"", waiting until ""domcontentloaded""
+"
+http://www.catclawcontractorsdemolition.comâ€‹,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.catclawcontractorsdemolition.xn--com-kla9221byta/
+Call log:
+  - navigating to ""http://www.catclawcontractorsdemolition.xn--com-kla9221byta/"", waiting until ""domcontentloaded""
+"
+https://bertiesrentals.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://bertiesrentals.com/
+Call log:
+  - navigating to ""https://bertiesrentals.com/"", waiting until ""domcontentloaded""
+"
+http://glcitywideac.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://glcitywideac.com/
+Call log:
+  - navigating to ""http://glcitywideac.com/"", waiting until ""domcontentloaded""
+"
+https://clark-clark-construction.business.site,FAILED,HTTP 404
+https://www.northeastmechanicalservices.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.northeastmechanicalservices.com/
+Call log:
+  - navigating to ""https://www.northeastmechanicalservices.com/"", waiting until ""domcontentloaded""
+"
+http://drivewaypaversorlando.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://drivewaypaversorlando.com/
+Call log:
+  - navigating to ""http://drivewaypaversorlando.com/"", waiting until ""domcontentloaded""
+"
+http://www.hitechmechanicalllc.com,FAILED,HTTP 404
+https://www.vaughnsroofing.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.vaughnsroofing.com/
+Call log:
+  - navigating to ""https://www.vaughnsroofing.com/"", waiting until ""domcontentloaded""
+"
+http://www.newleafconstruction.com,FAILED,HTTP 520
+https://alpha-drywall-and-construction.business.site,FAILED,HTTP 404
+http://pinupcleanup.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://pinupcleanup.com/
+Call log:
+  - navigating to ""http://pinupcleanup.com/"", waiting until ""domcontentloaded""
+"
+http://proairsolutions615.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://proairsolutions615.com/
+Call log:
+  - navigating to ""http://proairsolutions615.com/"", waiting until ""domcontentloaded""
+"
+http://www.ns-builders.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.ns-builders.com/
+Call log:
+  - navigating to ""http://www.ns-builders.com/"", waiting until ""domcontentloaded""
+"
+http://www.emmyhomes.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.emmyhomes.com/
+Call log:
+  - navigating to ""http://www.emmyhomes.com/"", waiting until ""domcontentloaded""
+"
+http://www.11274055.cstsite.com,FAILED,"Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.11274055.cstsite.com/
+Call log:
+  - navigating to ""https://www.11274055.cstsite.com/"", waiting until ""domcontentloaded""
+"
+https://stormgeneralbuilders.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://stormgeneralbuilders.net/
+Call log:
+  - navigating to ""https://stormgeneralbuilders.net/"", waiting until ""domcontentloaded""
+"
+http://www.castrogeneralservices.com/contact-us.html,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.castrogeneralservices.com/contact-us.html
+Call log:
+  - navigating to ""https://www.castrogeneralservices.com/contact-us.html"", waiting until ""domcontentloaded""
+"
+http://walshcustomhomes.net,FAILED,HTTP 404
+https://wausauhomes.com/find-a-builder/index/view/id/83,FAILED,HTTP 404
+http://www.trailblazerbuilders.com,FAILED,HTTP 404
+https://www.santexroofing.com/san-antonio-roofing-reviews,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.santexroofing.com/san-antonio-roofing-reviews
+Call log:
+  - navigating to ""https://www.santexroofing.com/san-antonio-roofing-reviews"", waiting until ""domcontentloaded""
+"
+http://www.ashleyhomes.com,BLOCKED,HTTP 403
+http://www.customhomebuilders.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.customhomebuilders.com/
+Call log:
+  - navigating to ""http://www.customhomebuilders.com/"", waiting until ""domcontentloaded""
+"
+http://www.customhomesbuilders.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.customhomesbuilders.com/
+Call log:
+  - navigating to ""http://www.customhomesbuilders.com/"", waiting until ""domcontentloaded""
+"
+http://www.designet.net,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.designet.net/
+Call log:
+  - navigating to ""https://www.designet.net/"", waiting until ""domcontentloaded""
+"
+https://www.bridgeportcustomhomes.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.bridgeportcustomhomes.com/
+Call log:
+  - navigating to ""https://www.bridgeportcustomhomes.com/"", waiting until ""domcontentloaded""
+"
+http://www.bbbsites.com/NivcoConstruction,FAILED,HTTP 404
+http://www.wbyrd.com,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.wbyrd.com/
+Call log:
+  - navigating to ""https://www.wbyrd.com/"", waiting until ""domcontentloaded""
+"
+http://www.armstronghomes.net,FAILED,"Page.goto: net::ERR_CONNECTION_CLOSED at https://www.armstronghomes.net/
+Call log:
+  - navigating to ""https://www.armstronghomes.net/"", waiting until ""domcontentloaded""
+"
+http://www.drcontractorsindy.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.drcontractorsindy.com/
+Call log:
+  - navigating to ""http://www.drcontractorsindy.com/"", waiting until ""domcontentloaded""
+"
+https://www.jefflohningcustomhomes.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.jefflohningcustomhomes.com/
+Call log:
+  - navigating to ""https://www.jefflohningcustomhomes.com/"", waiting until ""domcontentloaded""
+"
+http://www.hansencustomhomes.com,FAILED,HTTP 503
+http://www.transformgc.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.transformgc.com/
+Call log:
+  - navigating to ""http://www.transformgc.com/"", waiting until ""domcontentloaded""
+"
+http://www.ericksoncustomhomes.com,FAILED,HTTP 404
+http://www.raysconstructionllc.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.raysconstructionllc.net/
+Call log:
+  - navigating to ""http://www.raysconstructionllc.net/"", waiting until ""domcontentloaded""
+"
+http://www.aiellohomeservices.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.aiellohomeservices.com/
+Call log:
+  - navigating to ""http://www.aiellohomeservices.com/"", waiting until ""domcontentloaded""
+"
+http://www.elitedemolitioninc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.elitedemolitioninc.com/
+Call log:
+  - navigating to ""http://www.elitedemolitioninc.com/"", waiting until ""domcontentloaded""
+"
+http://www.ablconstruction.net,FAILED,HTTP 404
+https://richardraymondheatingandcoolingllc.business.site,FAILED,HTTP 404
+http://www.dcbuildersllc.com,FAILED,"Page.goto: net::ERR_CONNECTION_RESET at https://www.dcbuildersllc.com/
+Call log:
+  - navigating to ""https://www.dcbuildersllc.com/"", waiting until ""domcontentloaded""
+"
+https://www.projectcompletionresourcesllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.projectcompletionresourcesllc.com/
+Call log:
+  - navigating to ""https://www.projectcompletionresourcesllc.com/"", waiting until ""domcontentloaded""
+"
+https://www.mmdemoex.com,FAILED,HTTP 404
+http://www.shanelkilgore.wix.com/kilgoresheatingair,FAILED,HTTP 409
+http://delgadogeneral.com,FAILED,HTTP 451
+http://kevinstokesexcavating.com,FAILED,HTTP 522
+https://www.infinityconstructionllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.infinityconstructionllc.com/
+Call log:
+  - navigating to ""https://www.infinityconstructionllc.com/"", waiting until ""domcontentloaded""
+"
+https://www.aaronshvacep.com,FAILED,HTTP 404
+https://rygels-landscaping.business.site,FAILED,HTTP 404
+https://www.vhbllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.vhbllc.com/
+Call log:
+  - navigating to ""https://www.vhbllc.com/"", waiting until ""domcontentloaded""
+"
+http://www.dbcustomremodeling.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.dbcustomremodeling.com/
+Call log:
+  - navigating to ""http://www.dbcustomremodeling.com/"", waiting until ""domcontentloaded""
+"
+https://bakersfieldframingcontractor.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://bakersfieldframingcontractor.com/
+Call log:
+  - navigating to ""https://bakersfieldframingcontractor.com/"", waiting until ""domcontentloaded""
+"
+http://silveradoframingandconstructioninc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://silveradoframingandconstructioninc.com/
+Call log:
+  - navigating to ""http://silveradoframingandconstructioninc.com/"", waiting until ""domcontentloaded""
+"
+http://www.calesi.com,BLOCKED,HTTP 403
+http://www.CBIcustomhomes.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.cbicustomhomes.com/
+Call log:
+  - navigating to ""http://www.cbicustomhomes.com/"", waiting until ""domcontentloaded""
+"
+http://www.pabloconstructioninc.org,FAILED,HTTP 404
+http://malonecustombuildersllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://malonecustombuildersllc.com/
+Call log:
+  - navigating to ""http://malonecustombuildersllc.com/"", waiting until ""domcontentloaded""
+"
+http://www.joshwillishomes.com,FAILED,HTTP 404
+http://www.harrisonhomes.com,BLOCKED,HTTP 403
+http://www.cresswellbuilders.com,FAILED,HTTP 404
+https://hightower-sons.business.site,FAILED,HTTP 404
+http://brentbidwellconstruction.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://brentbidwellconstruction.com/
+Call log:
+  - navigating to ""http://brentbidwellconstruction.com/"", waiting until ""domcontentloaded""
+"
+https://www.alairhomes.com/orlando,BLOCKED,HTTP 403
+https://cardenas-construction-remodeling.business.site,FAILED,HTTP 404
+http://www.tritonaustin.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at http://www.tritonaustin.com/
+Call log:
+  - navigating to ""http://www.tritonaustin.com/"", waiting until ""domcontentloaded""
+"
+http://www.bakercustom.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""http://www.bakercustom.com/"", waiting until ""domcontentloaded""
+"
+http://fncontractorsllc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://fncontractorsllc.com/
+Call log:
+  - navigating to ""http://fncontractorsllc.com/"", waiting until ""domcontentloaded""
+"
+http://rcltexas.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://rcltexas.net/
+Call log:
+  - navigating to ""http://rcltexas.net/"", waiting until ""domcontentloaded""
+"
+http://www.buildwithwoodhaven.com,FAILED,HTTP 500
+https://integritywasterolloffanddemoli1.godaddysites.com,FAILED,HTTP 404
+https://www.timeproservices.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.timeproservices.net/
+Call log:
+  - navigating to ""https://www.timeproservices.net/"", waiting until ""domcontentloaded""
+"
+http://www.belforusa.com,BLOCKED,HTTP 403
+http://www.kingshaulingandexcavating.com,BLOCKED,HTTP 403
+http://www.usgenco.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.usgenco.net/
+Call log:
+  - navigating to ""http://www.usgenco.net/"", waiting until ""domcontentloaded""
+"
+http://www.experthvacandrefrigeration.com,BLOCKED,HTTP 403
+http://www.cornerstone-excavating.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.cornerstone-excavating.com/
+Call log:
+  - navigating to ""http://www.cornerstone-excavating.com/"", waiting until ""domcontentloaded""
+"
+http://www.primecorecontracting.com,FAILED,HTTP 503
+http://adamnashenterpriseinc.com,FAILED,HTTP 404
+http://www.charroncontractinginc.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.charroncontractinginc.com/
+Call log:
+  - navigating to ""http://www.charroncontractinginc.com/"", waiting until ""domcontentloaded""
+"
+http://www.nvnhomeimprovement.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.nvnhomeimprovement.com/
+Call log:
+  - navigating to ""http://www.nvnhomeimprovement.com/"", waiting until ""domcontentloaded""
+"
+http://www.npconstructiongroup.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.npconstructiongroup.com/
+Call log:
+  - navigating to ""http://www.npconstructiongroup.com/"", waiting until ""domcontentloaded""
+"
+https://www.crebertroofing.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.crebertroofing.com/
+Call log:
+  - navigating to ""https://www.crebertroofing.com/"", waiting until ""domcontentloaded""
+"
+http://www.monticelloconstructionservices.com,FAILED,HTTP 404
+https://www.yelp.com/biz/charleston-building-and-development-naperville,BLOCKED,HTTP 403
+http://barczibuilders.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://barczibuilders.com/
+Call log:
+  - navigating to ""http://barczibuilders.com/"", waiting until ""domcontentloaded""
+"
+https://trademasterhvacinc.com,FAILED,"Timeout: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to ""https://trademasterhvacinc.com/"", waiting until ""domcontentloaded""
+"
+https://curtsconcretecuttingllc.com,FAILED,HTTP 522
+https://www.absolutebuildingspecialists.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.absolutebuildingspecialists.com/
+Call log:
+  - navigating to ""https://www.absolutebuildingspecialists.com/"", waiting until ""domcontentloaded""
+"
+http://hendrixcustomhomes.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://hendrixcustomhomes.com/
+Call log:
+  - navigating to ""http://hendrixcustomhomes.com/"", waiting until ""domcontentloaded""
+"
+https://garzagrouptx.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://garzagrouptx.com/
+Call log:
+  - navigating to ""https://garzagrouptx.com/"", waiting until ""domcontentloaded""
+"
+https://millennialdesignbuild.com,FAILED,HTTP 410
+https://f-riveras-construction.business.site,FAILED,HTTP 404
+http://www.drhomes.net,FAILED,HTTP 522
+https://www.kimscustom.pro,FAILED,HTTP 404
+http://www.21stcenturyhomeimprovement.com,BLOCKED,HTTP 403
+http://www.remodeling777.com,BLOCKED,HTTP 403
+http://www.jdmannhomes.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.jdmannhomes.com/
+Call log:
+  - navigating to ""http://www.jdmannhomes.com/"", waiting until ""domcontentloaded""
+"
+https://tikalhomes.com,BLOCKED,HTTP 403
+http://www.hahncustomhomes.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.hahncustomhomes.com/
+Call log:
+  - navigating to ""http://www.hahncustomhomes.com/"", waiting until ""domcontentloaded""
+"
+http://www.aplusac.com,BLOCKED,HTTP 403
+http://www.environmentalgroupinc.com,BLOCKED,HTTP 403
+http://whitecapjunkremoval.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://whitecapjunkremoval.com/
+Call log:
+  - navigating to ""http://whitecapjunkremoval.com/"", waiting until ""domcontentloaded""
+"
+http://www.dkazenterprises.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.dkazenterprises.com/
+Call log:
+  - navigating to ""http://www.dkazenterprises.com/"", waiting until ""domcontentloaded""
+"
+http://www.starbuildremodel.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.starbuildremodel.com/
+Call log:
+  - navigating to ""http://www.starbuildremodel.com/"", waiting until ""domcontentloaded""
+"
+http://www.goamericanrandr.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.goamericanrandr.com/
+Call log:
+  - navigating to ""http://www.goamericanrandr.com/"", waiting until ""domcontentloaded""
+"
+http://collinbryan.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://collinbryan.com/
+Call log:
+  - navigating to ""http://collinbryan.com/"", waiting until ""domcontentloaded""
+"
+https://angles-timber-construction-llc.business.site,FAILED,HTTP 404
+http://www.americantubsar.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.americantubsar.com/
+Call log:
+  - navigating to ""http://www.americantubsar.com/"", waiting until ""domcontentloaded""
+"
+https://www.hornehvac.com,FAILED,HTTP 520
+https://qcbuilderspro.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://qcbuilderspro.com/
+Call log:
+  - navigating to ""https://qcbuilderspro.com/"", waiting until ""domcontentloaded""
+"
+http://chicagoxtremeremodeling.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://chicagoxtremeremodeling.com/
+Call log:
+  - navigating to ""http://chicagoxtremeremodeling.com/"", waiting until ""domcontentloaded""
+"
+http://www.jadecustomhomebuilder.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.jadecustomhomebuilder.com/
+Call log:
+  - navigating to ""http://www.jadecustomhomebuilder.com/"", waiting until ""domcontentloaded""
+"
+http://www.hillviewcustomhomesinc.com/index.html,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.hillviewcustomhomesinc.com/index.html
+Call log:
+  - navigating to ""http://www.hillviewcustomhomesinc.com/index.html"", waiting until ""domcontentloaded""
+"
+http://www.reesecustomhomes.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.reesecustomhomes.com/
+Call log:
+  - navigating to ""http://www.reesecustomhomes.com/"", waiting until ""domcontentloaded""
+"
+http://www.jamesoncustomhomes.com,FAILED,"Page.goto: net::ERR_EMPTY_RESPONSE at http://www.jamesoncustomhomes.com/
+Call log:
+  - navigating to ""http://www.jamesoncustomhomes.com/"", waiting until ""domcontentloaded""
+"
+http://www.klompcustomhomes.com,BLOCKED,HTTP 403
+http://www.sapphirecustomhomes.net,BLOCKED,HTTP 403
+http://www.summerhillbuilders.com,FAILED,HTTP 404
+https://www.abrdconstruction.com,FAILED,"Page.goto: net::ERR_CONNECTION_REFUSED at https://www.abrdconstruction.com/
+Call log:
+  - navigating to ""https://www.abrdconstruction.com/"", waiting until ""domcontentloaded""
+"
+http://www.johndanceyhomes.com,FAILED,"Page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at http://www.johndanceyhomes.com/
+Call log:
+  - navigating to ""http://www.johndanceyhomes.com/"", waiting until ""domcontentloaded""
+"
+http://www.gogreengeneralcontracting.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.gogreengeneralcontracting.com/
+Call log:
+  - navigating to ""http://www.gogreengeneralcontracting.com/"", waiting until ""domcontentloaded""
+"
+http://www.mapleleafhomes.net,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.mapleleafhomes.net/
+Call log:
+  - navigating to ""http://www.mapleleafhomes.net/"", waiting until ""domcontentloaded""
+"
+https://www.rocketcontracting.com,BLOCKED,HTTP 403
+http://www.stevearronhomes.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.stevearronhomes.com/
+Call log:
+  - navigating to ""http://www.stevearronhomes.com/"", waiting until ""domcontentloaded""
+"
+http://buildentconstruction.com/commercial-gallery,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://buildentconstruction.com/commercial-gallery
+Call log:
+  - navigating to ""http://buildentconstruction.com/commercial-gallery"", waiting until ""domcontentloaded""
+"
+https://www.HavensCon.com,FAILED,HTTP 503
+https://kraalbuilders.com,BLOCKED,"Page.goto: net::ERR_CONNECTION_RESET at https://kraalbuilders.com/
+Call log:
+  - navigating to ""https://kraalbuilders.com/"", waiting until ""domcontentloaded""
+"
+http://www.stevejohnsonbuilders.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.stevejohnsonbuilders.com/
+Call log:
+  - navigating to ""http://www.stevejohnsonbuilders.com/"", waiting until ""domcontentloaded""
+"
+http://hollistertx.com,FAILED,"Page.goto: net::ERR_NAME_NOT_RESOLVED at http://hollistertx.com/
+Call log:
+  - navigating to ""http://hollistertx.com/"", waiting until ""domcontentloaded""
+"
+https://www.ashbysignature.com,FAILED,"Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.ashbysignature.com/
+Call log:
+  - navigating to ""https://www.ashbysignature.com/"", waiting until ""domcontentloaded""
+"
+https://www.workingdogconstruction.com,FAILED,HTTP 404
